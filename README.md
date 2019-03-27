@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project use the following complementaries technologies:
+- Sidekiq
+- GraphQl
+- MongoDB
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Steps to init project:
+- install and run MongoDb service
+- install and run PostreSql
+- `bundle install`
+- `rails db:setup`
+- install and run `sidekiq`
