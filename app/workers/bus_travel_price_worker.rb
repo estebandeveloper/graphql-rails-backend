@@ -18,6 +18,6 @@ class BusTravelPriceWorker
                            bus_operator_id: best_price['bus_operator_id'],
                            obtained_at: Date.today)
     end
-    BusTravelGeneratorWorker.perform_in(15.seconds, travel_notify_id)
+    BusTravelGeneratorWorker.perform_in(5.minutes, travel_notify_id)
   end
 end
