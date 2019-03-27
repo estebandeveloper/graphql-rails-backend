@@ -11,3 +11,7 @@ Steps to init project:
 - `bundle install`
 - `rails db:setup`
 - install and run `sidekiq`
+
+TO DO list
+- send emails to alerts new prices
+- mutations to update and destroy `travel_notifies`
