@@ -15,3 +15,4 @@ Steps to init project:
 TO DO list
 - send emails to alerts new prices
 - mutations to update and destroy `travel_notifies`
+- Testing
