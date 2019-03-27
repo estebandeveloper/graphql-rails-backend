@@ -1,0 +1,4457 @@
+[
+  {
+    "id": 8914,
+    "url_name": "achao",
+    "name": "Achao",
+    "latitude": "-42.472032",
+    "longitude": "-73.489772",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8914.json",
+    "country_id": 1
+  },
+  {
+    "id": 10315,
+    "url_name": "aeropuerto-de-calama",
+    "name": "Aeropuerto de Calama",
+    "latitude": "-22.505771",
+    "longitude": "-68.927898",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10315.json",
+    "country_id": 1
+  },
+  {
+    "id": 26,
+    "url_name": "aguilares",
+    "name": "Aguilares (Argentina)",
+    "latitude": "-27.431509",
+    "longitude": "-65.614716",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/26.json",
+    "country_id": 2
+  },
+  {
+    "id": 8916,
+    "url_name": "algarrobo",
+    "name": "Algarrobo",
+    "latitude": "-33.364776",
+    "longitude": "-71.670553",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8916.json",
+    "country_id": 1
+  },
+  {
+    "id": 10284,
+    "url_name": "alhue",
+    "name": "Alhué",
+    "latitude": "-34.026469",
+    "longitude": "-71.100288",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10284.json",
+    "country_id": 1
+  },
+  {
+    "id": 8917,
+    "url_name": "alicahue",
+    "name": "Alicahue",
+    "latitude": "-32.35",
+    "longitude": "-70.787296",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8917.json",
+    "country_id": 1
+  },
+  {
+    "id": 10254,
+    "url_name": "allen",
+    "name": "Allen (Argentina)",
+    "latitude": "-38.965759",
+    "longitude": "-67.832336",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10254.json",
+    "country_id": 2
+  },
+  {
+    "id": 28,
+    "url_name": "almafuerte",
+    "name": "Almafuerte (Argentina)",
+    "latitude": "-32.192051",
+    "longitude": "-64.255529",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/28.json",
+    "country_id": 2
+  },
+  {
+    "id": 8918,
+    "url_name": "alto-hospicio",
+    "name": "Alto Hospicio",
+    "latitude": "-20.268483",
+    "longitude": "-70.104711",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8918.json",
+    "country_id": 1
+  },
+  {
+    "id": 8920,
+    "url_name": "ancud",
+    "name": "Ancud",
+    "latitude": "-41.8675",
+    "longitude": "-73.827697",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8920.json",
+    "country_id": 1
+  },
+  {
+    "id": 8922,
+    "url_name": "angol",
+    "name": "Angol",
+    "latitude": "-37.8",
+    "longitude": "-72.7167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8922.json",
+    "country_id": 1
+  },
+  {
+    "id": 8924,
+    "url_name": "antihuala",
+    "name": "Antihuala",
+    "latitude": "-37.671732",
+    "longitude": "-73.409638",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8924.json",
+    "country_id": 1
+  },
+  {
+    "id": 8925,
+    "url_name": "antofagasta",
+    "name": "Antofagasta",
+    "latitude": "-23.65",
+    "longitude": "-70.4",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8925.json",
+    "country_id": 1
+  },
+  {
+    "id": 8926,
+    "url_name": "antuco",
+    "name": "Antuco",
+    "latitude": "-37.331316",
+    "longitude": "-71.676428",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8926.json",
+    "country_id": 1
+  },
+  {
+    "id": 8927,
+    "url_name": "arauco",
+    "name": "Arauco",
+    "latitude": "-37.245777",
+    "longitude": "-73.316664",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8927.json",
+    "country_id": 1
+  },
+  {
+    "id": 8928,
+    "url_name": "arica",
+    "name": "Arica",
+    "latitude": "-18.477044",
+    "longitude": "-70.314533",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8928.json",
+    "country_id": 1
+  },
+  {
+    "id": 39,
+    "url_name": "arroyo-verde",
+    "name": "Arroyo Verde (Argentina)",
+    "latitude": "-41.924704",
+    "longitude": "-66.196189",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/39.json",
+    "country_id": 2
+  },
+  {
+    "id": 8929,
+    "url_name": "artificio-sopraval",
+    "name": "Artificio Sopraval",
+    "latitude": "-32.768446",
+    "longitude": "-71.197922",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8929.json",
+    "country_id": 1
+  },
+  {
+    "id": 10279,
+    "url_name": "ascotan",
+    "name": "Ascotan",
+    "latitude": "-22.442769",
+    "longitude": "-68.922881",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10279.json",
+    "country_id": 1
+  },
+  {
+    "id": 40,
+    "url_name": "ataliva-roca",
+    "name": "Ataliva Roca (Argentina)",
+    "latitude": "-37.031866",
+    "longitude": "-64.285176",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/40.json",
+    "country_id": 2
+  },
+  {
+    "id": 19,
+    "url_name": "bahia-blanca",
+    "name": "Bahía Blanca (Argentina)",
+    "latitude": "-38.718318",
+    "longitude": "-62.266348",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/19.json",
+    "country_id": 2
+  },
+  {
+    "id": 44,
+    "url_name": "balde",
+    "name": "Balde (Argentina)",
+    "latitude": "-33.33252",
+    "longitude": "-66.63208",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/44.json",
+    "country_id": 2
+  },
+  {
+    "id": 10261,
+    "url_name": "balmaceda",
+    "name": "Balmaceda (Argentina)",
+    "latitude": "-45.909431",
+    "longitude": "-71.69762",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10261.json",
+    "country_id": 2
+  },
+  {
+    "id": 8931,
+    "url_name": "baquedano",
+    "name": "Baquedano",
+    "latitude": "-23.360837",
+    "longitude": "-69.865154",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8931.json",
+    "country_id": 1
+  },
+  {
+    "id": 8932,
+    "url_name": "bariloche",
+    "name": "Bariloche (Argentina)",
+    "latitude": "-41.133472",
+    "longitude": "-71.310278",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8932.json",
+    "country_id": 2
+  },
+  {
+    "id": 10304,
+    "url_name": "barros-arana",
+    "name": "Barros Arana",
+    "latitude": "-38.983446",
+    "longitude": "-72.93885",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10304.json",
+    "country_id": 1
+  },
+  {
+    "id": 53,
+    "url_name": "bernasconi",
+    "name": "Bernasconi (Argentina)",
+    "latitude": "-37.901539",
+    "longitude": "-63.742573",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/53.json",
+    "country_id": 2
+  },
+  {
+    "id": 54,
+    "url_name": "berrotaran",
+    "name": "Berrotaran (Argentina)",
+    "latitude": "-32.453039",
+    "longitude": "-64.388055",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/54.json",
+    "country_id": 2
+  },
+  {
+    "id": 8936,
+    "url_name": "bucalemu",
+    "name": "Bucalemu",
+    "latitude": "-34.386725",
+    "longitude": "-72.004773",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8936.json",
+    "country_id": 1
+  },
+  {
+    "id": 10299,
+    "url_name": "buchupureo",
+    "name": "Buchupureo",
+    "latitude": "-36.072388",
+    "longitude": "-72.796361",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10299.json",
+    "country_id": 1
+  },
+  {
+    "id": 3,
+    "url_name": "buenos-aires",
+    "name": "Buenos Aires (Argentina)",
+    "latitude": "-34.603684",
+    "longitude": "-58.381559",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/3.json",
+    "country_id": 2
+  },
+  {
+    "id": 8937,
+    "url_name": "buin",
+    "name": "Buin",
+    "latitude": "-33.730937",
+    "longitude": "-70.742322",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8937.json",
+    "country_id": 1
+  },
+  {
+    "id": 8938,
+    "url_name": "bulnes",
+    "name": "Bulnes",
+    "latitude": "-36.742159",
+    "longitude": "-72.301772",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8938.json",
+    "country_id": 1
+  },
+  {
+    "id": 8939,
+    "url_name": "cabildo",
+    "name": "Cabildo",
+    "latitude": "-32.425806",
+    "longitude": "-71.066162",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8939.json",
+    "country_id": 1
+  },
+  {
+    "id": 8940,
+    "url_name": "cabrero",
+    "name": "Cabrero",
+    "latitude": "-37.0333",
+    "longitude": "-72.4",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8940.json",
+    "country_id": 1
+  },
+  {
+    "id": 8941,
+    "url_name": "caburgua",
+    "name": "Caburgua",
+    "latitude": "-39.200645",
+    "longitude": "-71.808437",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8941.json",
+    "country_id": 1
+  },
+  {
+    "id": 10265,
+    "url_name": "cachagua",
+    "name": "Cachagua",
+    "latitude": "-32.580189",
+    "longitude": "-71.452199",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10265.json",
+    "country_id": 1
+  },
+  {
+    "id": 10305,
+    "url_name": "cachapoal",
+    "name": "Cachapoal",
+    "latitude": "-36.45",
+    "longitude": "-71.733333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10305.json",
+    "country_id": 1
+  },
+  {
+    "id": 8942,
+    "url_name": "cajon",
+    "name": "Cajon",
+    "latitude": "-38.6667",
+    "longitude": "-72.5",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8942.json",
+    "country_id": 1
+  },
+  {
+    "id": 8943,
+    "url_name": "calama",
+    "name": "Calama",
+    "latitude": "-22.453712",
+    "longitude": "-68.925307",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8943.json",
+    "country_id": 1
+  },
+  {
+    "id": 8944,
+    "url_name": "calbuco",
+    "name": "Calbuco",
+    "latitude": "-41.772016",
+    "longitude": "-73.132709",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8944.json",
+    "country_id": 1
+  },
+  {
+    "id": 8945,
+    "url_name": "caldera",
+    "name": "Caldera",
+    "latitude": "-27.0667",
+    "longitude": "-70.817814",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8945.json",
+    "country_id": 1
+  },
+  {
+    "id": 66,
+    "url_name": "caleta-olivia",
+    "name": "Caleta Olivia (Argentina)",
+    "latitude": "-46.442565",
+    "longitude": "-67.517153",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/66.json",
+    "country_id": 2
+  },
+  {
+    "id": 8947,
+    "url_name": "california",
+    "name": "California",
+    "latitude": "-25.243428",
+    "longitude": "-69.801038",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8947.json",
+    "country_id": 1
+  },
+  {
+    "id": 8948,
+    "url_name": "campanario",
+    "name": "Campanario",
+    "latitude": "-33.81",
+    "longitude": "-71.109444",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8948.json",
+    "country_id": 1
+  },
+  {
+    "id": 71,
+    "url_name": "candelaria",
+    "name": "Candelaria (Argentina)",
+    "latitude": "-27.461271",
+    "longitude": "-55.744028",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/71.json",
+    "country_id": 2
+  },
+  {
+    "id": 8949,
+    "url_name": "canela-baja",
+    "name": "Canela Baja",
+    "latitude": "-31.399101",
+    "longitude": "-71.457397",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8949.json",
+    "country_id": 1
+  },
+  {
+    "id": 8950,
+    "url_name": "canete",
+    "name": "Cañete",
+    "latitude": "-37.80582",
+    "longitude": "-73.391974",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8950.json",
+    "country_id": 1
+  },
+  {
+    "id": 10321,
+    "url_name": "canteras",
+    "name": "Canteras",
+    "latitude": "-37.4",
+    "longitude": "-72.0167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10321.json",
+    "country_id": 1
+  },
+  {
+    "id": 74,
+    "url_name": "capiovi",
+    "name": "Capiovi (Argentina)",
+    "latitude": "-26.933331",
+    "longitude": "-55.066662",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/74.json",
+    "country_id": 2
+  },
+  {
+    "id": 8951,
+    "url_name": "capitan-pastene",
+    "name": "Capitán Pastene",
+    "latitude": "-38.195113",
+    "longitude": "-72.991731",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8951.json",
+    "country_id": 1
+  },
+  {
+    "id": 8952,
+    "url_name": "carahue",
+    "name": "Carahue",
+    "latitude": "-38.708859",
+    "longitude": "-73.167881",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8952.json",
+    "country_id": 1
+  },
+  {
+    "id": 8953,
+    "url_name": "carampangue",
+    "name": "Carampangue",
+    "latitude": "-37.254877",
+    "longitude": "-73.235504",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8953.json",
+    "country_id": 1
+  },
+  {
+    "id": 75,
+    "url_name": "carlos-paz",
+    "name": "Carlos Paz (Argentina)",
+    "latitude": "-31.412208",
+    "longitude": "-64.534756",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/75.json",
+    "country_id": 2
+  },
+  {
+    "id": 8955,
+    "url_name": "cartagena",
+    "name": "Cartagena",
+    "latitude": "-33.548247",
+    "longitude": "-71.604575",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8955.json",
+    "country_id": 1
+  },
+  {
+    "id": 8956,
+    "url_name": "casablanca",
+    "name": "Casablanca",
+    "latitude": "-33.319038",
+    "longitude": "-71.407632",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8956.json",
+    "country_id": 1
+  },
+  {
+    "id": 8957,
+    "url_name": "castro",
+    "name": "Castro",
+    "latitude": "-42.48014",
+    "longitude": "-73.762414",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8957.json",
+    "country_id": 1
+  },
+  {
+    "id": 80,
+    "url_name": "catamarca",
+    "name": "Catamarca (Argentina)",
+    "latitude": "-28.469581",
+    "longitude": "-65.779544",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/80.json",
+    "country_id": 2
+  },
+  {
+    "id": 8958,
+    "url_name": "catemu",
+    "name": "Catemu",
+    "latitude": "-32.778804",
+    "longitude": "-70.962704",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8958.json",
+    "country_id": 1
+  },
+  {
+    "id": 82,
+    "url_name": "catriel",
+    "name": "Catriel (Argentina)",
+    "latitude": "-37.876085",
+    "longitude": "-67.792781",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/82.json",
+    "country_id": 2
+  },
+  {
+    "id": 8959,
+    "url_name": "catripulli",
+    "name": "Catripulli",
+    "latitude": "-39.358336",
+    "longitude": "-71.703038",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8959.json",
+    "country_id": 1
+  },
+  {
+    "id": 8960,
+    "url_name": "cauquenes",
+    "name": "Cauquenes",
+    "latitude": "-35.9667",
+    "longitude": "-72.35",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8960.json",
+    "country_id": 1
+  },
+  {
+    "id": 10278,
+    "url_name": "cebollar",
+    "name": "Cebollar",
+    "latitude": "-22.437092",
+    "longitude": "-68.921371",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10278.json",
+    "country_id": 1
+  },
+  {
+    "id": 85,
+    "url_name": "centenario",
+    "name": "Centenario (Argentina)",
+    "latitude": "-38.829811",
+    "longitude": "-68.122002",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/85.json",
+    "country_id": 2
+  },
+  {
+    "id": 8961,
+    "url_name": "cerillos",
+    "name": "Cerillos",
+    "latitude": "-33.504133",
+    "longitude": "-70.7109",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8961.json",
+    "country_id": 1
+  },
+  {
+    "id": 8962,
+    "url_name": "cerro-alto",
+    "name": "Cerro Alto",
+    "latitude": "-35.296944",
+    "longitude": "-72.280278",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8962.json",
+    "country_id": 1
+  },
+  {
+    "id": 8966,
+    "url_name": "chacay",
+    "name": "Chacay",
+    "latitude": "-30.4495",
+    "longitude": "-70.676806",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8966.json",
+    "country_id": 1
+  },
+  {
+    "id": 8967,
+    "url_name": "chaiten",
+    "name": "Chaitén",
+    "latitude": "-42.9167",
+    "longitude": "-72.7167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8967.json",
+    "country_id": 1
+  },
+  {
+    "id": 93,
+    "url_name": "chajan",
+    "name": "Chajan (Argentina)",
+    "latitude": "-33.556084",
+    "longitude": "-65.003311",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/93.json",
+    "country_id": 2
+  },
+  {
+    "id": 95,
+    "url_name": "chala",
+    "name": "Chala (Argentina)",
+    "latitude": "-37.319379",
+    "longitude": "-57.028824",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/95.json",
+    "country_id": 2
+  },
+  {
+    "id": 8968,
+    "url_name": "challupen",
+    "name": "Challupen",
+    "latitude": "-39.482517",
+    "longitude": "-72.100787",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8968.json",
+    "country_id": 1
+  },
+  {
+    "id": 8970,
+    "url_name": "chanaral",
+    "name": "Chañaral",
+    "latitude": "-26.340962",
+    "longitude": "-70.626647",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8970.json",
+    "country_id": 1
+  },
+  {
+    "id": 8972,
+    "url_name": "chanco",
+    "name": "Chanco",
+    "latitude": "-35.7333",
+    "longitude": "-72.5333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8972.json",
+    "country_id": 1
+  },
+  {
+    "id": 102,
+    "url_name": "chepes",
+    "name": "Chepes (Argentina)",
+    "latitude": "-31.33639",
+    "longitude": "-66.591843",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/102.json",
+    "country_id": 2
+  },
+  {
+    "id": 8974,
+    "url_name": "cherquenco",
+    "name": "Cherquenco",
+    "latitude": "-38.6833",
+    "longitude": "-72.0",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8974.json",
+    "country_id": 1
+  },
+  {
+    "id": 8975,
+    "url_name": "chiguayante",
+    "name": "Chiguayante",
+    "latitude": "-36.934419",
+    "longitude": "-73.022016",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8975.json",
+    "country_id": 1
+  },
+  {
+    "id": 8977,
+    "url_name": "chillan",
+    "name": "Chillán",
+    "latitude": "-36.609354",
+    "longitude": "-72.102423",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8977.json",
+    "country_id": 1
+  },
+  {
+    "id": 8978,
+    "url_name": "chimbarongo",
+    "name": "Chimbarongo",
+    "latitude": "-34.70924",
+    "longitude": "-71.041271",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8978.json",
+    "country_id": 1
+  },
+  {
+    "id": 8979,
+    "url_name": "chincolco",
+    "name": "Chincolco",
+    "latitude": "-32.221695",
+    "longitude": "-70.834799",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8979.json",
+    "country_id": 1
+  },
+  {
+    "id": 109,
+    "url_name": "choique",
+    "name": "Choique (Argentina)",
+    "latitude": "-38.466671",
+    "longitude": "-62.716671",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/109.json",
+    "country_id": 2
+  },
+  {
+    "id": 8980,
+    "url_name": "cholchol",
+    "name": "Cholchol",
+    "latitude": "-38.600591",
+    "longitude": "-72.841141",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8980.json",
+    "country_id": 1
+  },
+  {
+    "id": 8981,
+    "url_name": "chonchi",
+    "name": "Chonchi",
+    "latitude": "-42.623259",
+    "longitude": "-73.77385",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8981.json",
+    "country_id": 1
+  },
+  {
+    "id": 113,
+    "url_name": "chumbicha",
+    "name": "Chumbicha (Argentina)",
+    "latitude": "-28.853413",
+    "longitude": "-66.236038",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/113.json",
+    "country_id": 2
+  },
+  {
+    "id": 8982,
+    "url_name": "chuquicamata",
+    "name": "Chuquicamata",
+    "latitude": "-22.3167",
+    "longitude": "-68.9333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8982.json",
+    "country_id": 1
+  },
+  {
+    "id": 8983,
+    "url_name": "cierra-nevada",
+    "name": "Cierra Nevada",
+    "latitude": "-38.583333",
+    "longitude": "-71.583333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8983.json",
+    "country_id": 1
+  },
+  {
+    "id": 114,
+    "url_name": "cinco-saltos",
+    "name": "Cinco Saltos (Argentina)",
+    "latitude": "-38.827529",
+    "longitude": "-68.066129",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/114.json",
+    "country_id": 2
+  },
+  {
+    "id": 10255,
+    "url_name": "cipolletti",
+    "name": "Cipolletti (Argentina)",
+    "latitude": "-38.938771",
+    "longitude": "-67.995493",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10255.json",
+    "country_id": 2
+  },
+  {
+    "id": 8984,
+    "url_name": "cobquecura",
+    "name": "Cobquecura",
+    "latitude": "-36.138616",
+    "longitude": "-72.794522",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8984.json",
+    "country_id": 1
+  },
+  {
+    "id": 8986,
+    "url_name": "codegua",
+    "name": "Codegua",
+    "latitude": "-34.037032",
+    "longitude": "-70.672864",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8986.json",
+    "country_id": 1
+  },
+  {
+    "id": 8987,
+    "url_name": "coelemu",
+    "name": "Coelemu",
+    "latitude": "-36.4833",
+    "longitude": "-72.7",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8987.json",
+    "country_id": 1
+  },
+  {
+    "id": 8989,
+    "url_name": "coihue",
+    "name": "Coihue",
+    "latitude": "-37.279539",
+    "longitude": "-72.936513",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8989.json",
+    "country_id": 1
+  },
+  {
+    "id": 8990,
+    "url_name": "coihueco",
+    "name": "Coihueco",
+    "latitude": "-36.629103",
+    "longitude": "-71.832709",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8990.json",
+    "country_id": 1
+  },
+  {
+    "id": 8992,
+    "url_name": "colbun",
+    "name": "Colbun",
+    "latitude": "-35.699248",
+    "longitude": "-71.414692",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8992.json",
+    "country_id": 1
+  },
+  {
+    "id": 8995,
+    "url_name": "collipulli",
+    "name": "Collipulli",
+    "latitude": "-37.958269",
+    "longitude": "-72.432119",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8995.json",
+    "country_id": 1
+  },
+  {
+    "id": 8997,
+    "url_name": "combarbala",
+    "name": "Combarbala",
+    "latitude": "-31.179097",
+    "longitude": "-71.005096",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8997.json",
+    "country_id": 1
+  },
+  {
+    "id": 8998,
+    "url_name": "conaripe",
+    "name": "Coñaripe",
+    "latitude": "-39.560774",
+    "longitude": "-72.008942",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8998.json",
+    "country_id": 1
+  },
+  {
+    "id": 124,
+    "url_name": "concaran",
+    "name": "Concarán (Argentina)",
+    "latitude": "-32.557549",
+    "longitude": "-65.249466",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/124.json",
+    "country_id": 2
+  },
+  {
+    "id": 8999,
+    "url_name": "concepcion",
+    "name": "Concepción",
+    "latitude": "-36.818938",
+    "longitude": "-73.050319",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8999.json",
+    "country_id": 1
+  },
+  {
+    "id": 9001,
+    "url_name": "concon",
+    "name": "Concón",
+    "latitude": "-32.923937",
+    "longitude": "-71.523479",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9001.json",
+    "country_id": 1
+  },
+  {
+    "id": 9002,
+    "url_name": "constitucion",
+    "name": "Constitución",
+    "latitude": "-35.3333",
+    "longitude": "-72.4167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9002.json",
+    "country_id": 1
+  },
+  {
+    "id": 9003,
+    "url_name": "contulmo",
+    "name": "Contulmo",
+    "latitude": "-38.014927",
+    "longitude": "-73.229288",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9003.json",
+    "country_id": 1
+  },
+  {
+    "id": 9004,
+    "url_name": "copiapo",
+    "name": "Copiapó",
+    "latitude": "-27.366359",
+    "longitude": "-70.332237",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9004.json",
+    "country_id": 1
+  },
+  {
+    "id": 9005,
+    "url_name": "coquimbo",
+    "name": "Coquimbo",
+    "latitude": "-29.9533",
+    "longitude": "-71.3436",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9005.json",
+    "country_id": 1
+  },
+  {
+    "id": 4,
+    "url_name": "cordoba",
+    "name": "Córdoba (Argentina)",
+    "latitude": "-31.420083",
+    "longitude": "-64.188776",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/4.json",
+    "country_id": 2
+  },
+  {
+    "id": 9006,
+    "url_name": "coronel",
+    "name": "Coronel",
+    "latitude": "-37.029638",
+    "longitude": "-73.144352",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9006.json",
+    "country_id": 1
+  },
+  {
+    "id": 116,
+    "url_name": "coronel-pringles",
+    "name": "Coronel Pringles (Argentina)",
+    "latitude": "-37.985258",
+    "longitude": "-61.349792",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/116.json",
+    "country_id": 2
+  },
+  {
+    "id": 130,
+    "url_name": "corrientes",
+    "name": "Corrientes (Argentina)",
+    "latitude": "-27.469213",
+    "longitude": "-58.830635",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/130.json",
+    "country_id": 2
+  },
+  {
+    "id": 134,
+    "url_name": "cotita",
+    "name": "Cotita (Argentina)",
+    "latitude": "-37.726629",
+    "longitude": "-64.062848",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/134.json",
+    "country_id": 2
+  },
+  {
+    "id": 8988,
+    "url_name": "coyhaique",
+    "name": "Coyhaique",
+    "latitude": "-45.56974",
+    "longitude": "-72.065773",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/8988.json",
+    "country_id": 1
+  },
+  {
+    "id": 63,
+    "url_name": "c-rivadavia",
+    "name": "Comodoro Rivadavia (Argentina)",
+    "latitude": "-45.847999",
+    "longitude": "-67.521956",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/63.json",
+    "country_id": 2
+  },
+  {
+    "id": 10266,
+    "url_name": "cruce-los-tambores",
+    "name": "Cruce Los Tambores",
+    "latitude": "-40.320829",
+    "longitude": "-72.988305",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10266.json",
+    "country_id": 1
+  },
+  {
+    "id": 9012,
+    "url_name": "cruce-taltal",
+    "name": "Cruce Taltal",
+    "latitude": "-25.4152",
+    "longitude": "-70.473496",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9012.json",
+    "country_id": 1
+  },
+  {
+    "id": 9015,
+    "url_name": "culenco",
+    "name": "Culenco",
+    "latitude": "-37.008333",
+    "longitude": "-72.187023",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9015.json",
+    "country_id": 1
+  },
+  {
+    "id": 9017,
+    "url_name": "cunaco",
+    "name": "Cunaco",
+    "latitude": "-34.650139",
+    "longitude": "-71.280392",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9017.json",
+    "country_id": 1
+  },
+  {
+    "id": 9018,
+    "url_name": "cunco",
+    "name": "Cunco",
+    "latitude": "-38.932056",
+    "longitude": "-72.027984",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9018.json",
+    "country_id": 1
+  },
+  {
+    "id": 9019,
+    "url_name": "curacautin",
+    "name": "Curacautín",
+    "latitude": "-38.440185",
+    "longitude": "-71.88767",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9019.json",
+    "country_id": 1
+  },
+  {
+    "id": 9020,
+    "url_name": "curacavi",
+    "name": "Curacavi",
+    "latitude": "-33.397719",
+    "longitude": "-71.127521",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9020.json",
+    "country_id": 1
+  },
+  {
+    "id": 10330,
+    "url_name": "curaco-de-velez",
+    "name": "Curaco de Vélez",
+    "latitude": "-42.440049",
+    "longitude": "-73.599114",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10330.json",
+    "country_id": 1
+  },
+  {
+    "id": 9021,
+    "url_name": "curanilahue",
+    "name": "Curanilahue",
+    "latitude": "-37.476243",
+    "longitude": "-73.342124",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9021.json",
+    "country_id": 1
+  },
+  {
+    "id": 10414,
+    "url_name": "curanipe",
+    "name": "Curanipe",
+    "latitude": "-35.833333",
+    "longitude": "-72.633333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10414.json",
+    "country_id": 1
+  },
+  {
+    "id": 9022,
+    "url_name": "curarrehue",
+    "name": "Curarrehue",
+    "latitude": "-39.362488",
+    "longitude": "-71.596272",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9022.json",
+    "country_id": 1
+  },
+  {
+    "id": 9023,
+    "url_name": "curauma",
+    "name": "Curauma",
+    "latitude": "-33.015352",
+    "longitude": "-71.541096",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9023.json",
+    "country_id": 1
+  },
+  {
+    "id": 9025,
+    "url_name": "curico",
+    "name": "Curicó",
+    "latitude": "-34.985949",
+    "longitude": "-71.241775",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9025.json",
+    "country_id": 1
+  },
+  {
+    "id": 10256,
+    "url_name": "cutral-co",
+    "name": "Cutral-Có (Argentina)",
+    "latitude": "-38.9328",
+    "longitude": "-69.233101",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10256.json",
+    "country_id": 2
+  },
+  {
+    "id": 9027,
+    "url_name": "dalcahue",
+    "name": "Dalcahue",
+    "latitude": "-42.377631",
+    "longitude": "-73.651882",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9027.json",
+    "country_id": 1
+  },
+  {
+    "id": 145,
+    "url_name": "desaguadero",
+    "name": "Desaguadero (Argentina)",
+    "latitude": "-33.403249",
+    "longitude": "-67.155502",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/145.json",
+    "country_id": 2
+  },
+  {
+    "id": 9029,
+    "url_name": "diego-de-almagro",
+    "name": "Diego De Almagro",
+    "latitude": "-26.390249",
+    "longitude": "-70.04753",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9029.json",
+    "country_id": 1
+  },
+  {
+    "id": 148,
+    "url_name": "e-castex",
+    "name": "E. Castex (Argentina)",
+    "latitude": "-36.855174",
+    "longitude": "-57.873115",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/148.json",
+    "country_id": 2
+  },
+  {
+    "id": 10286,
+    "url_name": "el-ajial",
+    "name": "El Ajial",
+    "latitude": "-30.939794",
+    "longitude": "-71.387796",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10286.json",
+    "country_id": 1
+  },
+  {
+    "id": 150,
+    "url_name": "el-calafate",
+    "name": "El Calafate (Argentina)",
+    "latitude": "-50.337969",
+    "longitude": "-72.264798",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/150.json",
+    "country_id": 2
+  },
+  {
+    "id": 9031,
+    "url_name": "el-carmen",
+    "name": "El Carmen",
+    "latitude": "-36.895535",
+    "longitude": "-72.191878",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9031.json",
+    "country_id": 1
+  },
+  {
+    "id": 151,
+    "url_name": "el-cerrito",
+    "name": "El Cerrito (Argentina)",
+    "latitude": "-31.583333",
+    "longitude": "-60.066667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/151.json",
+    "country_id": 2
+  },
+  {
+    "id": 9032,
+    "url_name": "el-coihue",
+    "name": "El Coihue",
+    "latitude": "-39.282546",
+    "longitude": "-71.961286",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9032.json",
+    "country_id": 1
+  },
+  {
+    "id": 10323,
+    "url_name": "el-colorado---farellones",
+    "name": "El Colorado - Farellones",
+    "latitude": "-33.350241",
+    "longitude": "-70.280925",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10323.json",
+    "country_id": 1
+  },
+  {
+    "id": 153,
+    "url_name": "el-condor",
+    "name": "El Condor (Argentina)",
+    "latitude": "-31.610817",
+    "longitude": "-64.757117",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/153.json",
+    "country_id": 2
+  },
+  {
+    "id": 170,
+    "url_name": "eldorado",
+    "name": "Eldorado (Argentina)",
+    "latitude": "-26.39992",
+    "longitude": "-54.626812",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/170.json",
+    "country_id": 2
+  },
+  {
+    "id": 9036,
+    "url_name": "el-melon",
+    "name": "El Melon",
+    "latitude": "-32.68841",
+    "longitude": "-71.210802",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9036.json",
+    "country_id": 1
+  },
+  {
+    "id": 9040,
+    "url_name": "el-quisco",
+    "name": "El Quisco",
+    "latitude": "-33.398596",
+    "longitude": "-71.698154",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9040.json",
+    "country_id": 1
+  },
+  {
+    "id": 161,
+    "url_name": "el-saladillo",
+    "name": "El Saladillo (Argentina)",
+    "latitude": "-35.63888",
+    "longitude": "-59.77948",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/161.json",
+    "country_id": 2
+  },
+  {
+    "id": 9041,
+    "url_name": "el-salado",
+    "name": "El Salado",
+    "latitude": "-26.416667",
+    "longitude": "-70.316667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9041.json",
+    "country_id": 1
+  },
+  {
+    "id": 9042,
+    "url_name": "el-salvador",
+    "name": "El Salvador",
+    "latitude": "-26.245601",
+    "longitude": "-69.626378",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9042.json",
+    "country_id": 1
+  },
+  {
+    "id": 9043,
+    "url_name": "el-tabo",
+    "name": "El Tabo",
+    "latitude": "-33.455716",
+    "longitude": "-71.666934",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9043.json",
+    "country_id": 1
+  },
+  {
+    "id": 9046,
+    "url_name": "ercilla",
+    "name": "Ercilla",
+    "latitude": "-38.055316",
+    "longitude": "-72.3833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9046.json",
+    "country_id": 1
+  },
+  {
+    "id": 174,
+    "url_name": "escobar",
+    "name": "Escobar (Argentina)",
+    "latitude": "-34.340253",
+    "longitude": "-58.784943",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/174.json",
+    "country_id": 2
+  },
+  {
+    "id": 10311,
+    "url_name": "esperanza-plan",
+    "name": "Esperanza Plan",
+    "latitude": "-35.963626",
+    "longitude": "-71.69188",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10311.json",
+    "country_id": 1
+  },
+  {
+    "id": 180,
+    "url_name": "famailla",
+    "name": "Famailla (Argentina)",
+    "latitude": "-27.056055",
+    "longitude": "-65.402168",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/180.json",
+    "country_id": 2
+  },
+  {
+    "id": 185,
+    "url_name": "fitz-roy",
+    "name": "Fitz Roy (Argentina)",
+    "latitude": "-49.271667",
+    "longitude": "-73.046667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/185.json",
+    "country_id": 2
+  },
+  {
+    "id": 9049,
+    "url_name": "florida",
+    "name": "Florida",
+    "latitude": "-36.823788",
+    "longitude": "-72.668472",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9049.json",
+    "country_id": 1
+  },
+  {
+    "id": 9050,
+    "url_name": "freire",
+    "name": "Freire",
+    "latitude": "-38.9573",
+    "longitude": "-72.626929",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9050.json",
+    "country_id": 1
+  },
+  {
+    "id": 9052,
+    "url_name": "fresia",
+    "name": "Fresia",
+    "latitude": "-41.15",
+    "longitude": "-73.416334",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9052.json",
+    "country_id": 1
+  },
+  {
+    "id": 9053,
+    "url_name": "frutillar",
+    "name": "Frutillar",
+    "latitude": "-41.116667",
+    "longitude": "-73.05",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9053.json",
+    "country_id": 1
+  },
+  {
+    "id": 9055,
+    "url_name": "futrono",
+    "name": "Futrono",
+    "latitude": "-40.124541",
+    "longitude": "-72.38085",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9055.json",
+    "country_id": 1
+  },
+  {
+    "id": 9056,
+    "url_name": "galvarino",
+    "name": "Galvarino",
+    "latitude": "-38.408859",
+    "longitude": "-72.782119",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9056.json",
+    "country_id": 1
+  },
+  {
+    "id": 191,
+    "url_name": "gamay",
+    "name": "Gamay (Argentina)",
+    "latitude": "-37.439098",
+    "longitude": "-64.388613",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/191.json",
+    "country_id": 2
+  },
+  {
+    "id": 193,
+    "url_name": "garayalde",
+    "name": "Garayalde (Argentina)",
+    "latitude": "-44.666672",
+    "longitude": "-66.666672",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/193.json",
+    "country_id": 2
+  },
+  {
+    "id": 190,
+    "url_name": "general-san-martin--la-pampa",
+    "name": "General San Martin (La Pampa) (Argentina)",
+    "latitude": "-37.978827",
+    "longitude": "-63.603535",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/190.json",
+    "country_id": 2
+  },
+  {
+    "id": 9057,
+    "url_name": "gorbea",
+    "name": "Gorbea",
+    "latitude": "-39.10056",
+    "longitude": "-72.67636",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9057.json",
+    "country_id": 1
+  },
+  {
+    "id": 205,
+    "url_name": "gral-conesa",
+    "name": "Gral. Conesa (Argentina)",
+    "latitude": "-36.518288",
+    "longitude": "-57.324123",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/205.json",
+    "country_id": 2
+  },
+  {
+    "id": 201,
+    "url_name": "gral-guemes",
+    "name": "Gral Guemes (Argentina)",
+    "latitude": "-24.667258",
+    "longitude": "-65.050065",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/201.json",
+    "country_id": 2
+  },
+  {
+    "id": 10262,
+    "url_name": "gral-roca",
+    "name": "Gral Roca (Argentina)",
+    "latitude": "-39.026753",
+    "longitude": "-67.575172",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10262.json",
+    "country_id": 2
+  },
+  {
+    "id": 9058,
+    "url_name": "graneros",
+    "name": "Graneros",
+    "latitude": "-34.0667",
+    "longitude": "-70.7333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9058.json",
+    "country_id": 1
+  },
+  {
+    "id": 9060,
+    "url_name": "guanaqueros",
+    "name": "Guanaqueros",
+    "latitude": "-30.2",
+    "longitude": "-71.4333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9060.json",
+    "country_id": 1
+  },
+  {
+    "id": 214,
+    "url_name": "guer-aike",
+    "name": "Guer Aike (Argentina)",
+    "latitude": "-51.463477",
+    "longitude": "-70.827303",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/214.json",
+    "country_id": 2
+  },
+  {
+    "id": 9064,
+    "url_name": "horcon",
+    "name": "Horcón",
+    "latitude": "-30.196351",
+    "longitude": "-70.480855",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9064.json",
+    "country_id": 1
+  },
+  {
+    "id": 10465,
+    "url_name": "hornopiren",
+    "name": "Hornopirén",
+    "latitude": "-41.966488",
+    "longitude": "-72.470009",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10465.json",
+    "country_id": 1
+  },
+  {
+    "id": 10303,
+    "url_name": "hualpin",
+    "name": "Hualpín",
+    "latitude": "-39.090405",
+    "longitude": "-73.197822",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10303.json",
+    "country_id": 1
+  },
+  {
+    "id": 9067,
+    "url_name": "hualqui",
+    "name": "Hualqui",
+    "latitude": "-36.973788",
+    "longitude": "-72.936844",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9067.json",
+    "country_id": 1
+  },
+  {
+    "id": 9069,
+    "url_name": "huasco",
+    "name": "Huasco",
+    "latitude": "-28.4664",
+    "longitude": "-71.2192",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9069.json",
+    "country_id": 1
+  },
+  {
+    "id": 9072,
+    "url_name": "huepil",
+    "name": "Huepil",
+    "latitude": "-37.240294",
+    "longitude": "-71.951343",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9072.json",
+    "country_id": 1
+  },
+  {
+    "id": 9073,
+    "url_name": "huerquehue",
+    "name": "Huerquehue",
+    "latitude": "-39.148935",
+    "longitude": "-71.606011",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9073.json",
+    "country_id": 1
+  },
+  {
+    "id": 216,
+    "url_name": "huinca-renanco",
+    "name": "Huinca Renanco (Argentina)",
+    "latitude": "-34.84026",
+    "longitude": "-64.37178",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/216.json",
+    "country_id": 2
+  },
+  {
+    "id": 9075,
+    "url_name": "huiscapi",
+    "name": "Huiscapi",
+    "latitude": "-39.296151",
+    "longitude": "-72.405581",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9075.json",
+    "country_id": 1
+  },
+  {
+    "id": 9076,
+    "url_name": "illapel",
+    "name": "Illapel",
+    "latitude": "-31.6308",
+    "longitude": "-71.1653",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9076.json",
+    "country_id": 1
+  },
+  {
+    "id": 9078,
+    "url_name": "inca-de-oro",
+    "name": "Inca De Oro",
+    "latitude": "-27.411299",
+    "longitude": "-70.277795",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9078.json",
+    "country_id": 1
+  },
+  {
+    "id": 9079,
+    "url_name": "iquique",
+    "name": "Iquique",
+    "latitude": "-20.2167",
+    "longitude": "-70.142223",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9079.json",
+    "country_id": 1
+  },
+  {
+    "id": 223,
+    "url_name": "ituzaingo",
+    "name": "Ituzaingo (Argentina)",
+    "latitude": "-34.657024",
+    "longitude": "-58.675398",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/223.json",
+    "country_id": 2
+  },
+  {
+    "id": 227,
+    "url_name": "jacinta-arauz",
+    "name": "Jacinta Arauz (Argentina)",
+    "latitude": "-38.083151",
+    "longitude": "-63.429712",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/227.json",
+    "country_id": 2
+  },
+  {
+    "id": 228,
+    "url_name": "jardin-america",
+    "name": "Jardin America (Argentina)",
+    "latitude": "-27.043197",
+    "longitude": "-55.227069",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/228.json",
+    "country_id": 2
+  },
+  {
+    "id": 226,
+    "url_name": "j-b-alberdi",
+    "name": "J. B. Alberdi (Argentina)",
+    "latitude": "-26.19",
+    "longitude": "-58.13",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/226.json",
+    "country_id": 2
+  },
+  {
+    "id": 10257,
+    "url_name": "junin",
+    "name": "Junín (Argentina)",
+    "latitude": "-34.58855",
+    "longitude": "-60.949554",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10257.json",
+    "country_id": 2
+  },
+  {
+    "id": 9083,
+    "url_name": "la-boca",
+    "name": "La Boca",
+    "latitude": "-33.901111",
+    "longitude": "-71.817778",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9083.json",
+    "country_id": 1
+  },
+  {
+    "id": 10264,
+    "url_name": "labranza",
+    "name": "Labranza",
+    "latitude": "-38.763892",
+    "longitude": "-72.750236",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10264.json",
+    "country_id": 1
+  },
+  {
+    "id": 9084,
+    "url_name": "la-calera",
+    "name": "La Calera",
+    "latitude": "-32.787796",
+    "longitude": "-71.203996",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9084.json",
+    "country_id": 1
+  },
+  {
+    "id": 240,
+    "url_name": "la-cocha",
+    "name": "La Cocha (Argentina)",
+    "latitude": "-27.771767",
+    "longitude": "-65.5868",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/240.json",
+    "country_id": 2
+  },
+  {
+    "id": 10267,
+    "url_name": "la-compania",
+    "name": "La Compañía",
+    "latitude": "-34.080212",
+    "longitude": "-70.688014",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10267.json",
+    "country_id": 1
+  },
+  {
+    "id": 243,
+    "url_name": "la-dormida",
+    "name": "La Dormida (Argentina)",
+    "latitude": "-33.346845",
+    "longitude": "-67.917171",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/243.json",
+    "country_id": 2
+  },
+  {
+    "id": 9088,
+    "url_name": "la-esperanza",
+    "name": "La Esperanza",
+    "latitude": "-37.300704",
+    "longitude": "-72.304861",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9088.json",
+    "country_id": 1
+  },
+  {
+    "id": 10310,
+    "url_name": "la-estrella",
+    "name": "La Estrella",
+    "latitude": "-34.205336",
+    "longitude": "-71.671716",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10310.json",
+    "country_id": 1
+  },
+  {
+    "id": 261,
+    "url_name": "lafinur",
+    "name": "Lafinur (Argentina)",
+    "latitude": "-32.066662",
+    "longitude": "-65.333351",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/261.json",
+    "country_id": 2
+  },
+  {
+    "id": 9104,
+    "url_name": "lago-ranco",
+    "name": "Lago Ranco",
+    "latitude": "-40.32116",
+    "longitude": "-72.482212",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9104.json",
+    "country_id": 1
+  },
+  {
+    "id": 10317,
+    "url_name": "lago-rapel",
+    "name": "Lago Rapel",
+    "latitude": "-34.133333",
+    "longitude": "-71.5",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10317.json",
+    "country_id": 1
+  },
+  {
+    "id": 9093,
+    "url_name": "laja",
+    "name": "Laja",
+    "latitude": "-37.271425",
+    "longitude": "-72.721679",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9093.json",
+    "country_id": 1
+  },
+  {
+    "id": 9092,
+    "url_name": "la-laguna-de-zapallar",
+    "name": "La Laguna De Zapallar",
+    "latitude": "-32.627805",
+    "longitude": "-71.424308",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9092.json",
+    "country_id": 1
+  },
+  {
+    "id": 9094,
+    "url_name": "la-ligua",
+    "name": "La Ligua",
+    "latitude": "-32.449902",
+    "longitude": "-71.232596",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9094.json",
+    "country_id": 1
+  },
+  {
+    "id": 247,
+    "url_name": "la-merced",
+    "name": "La Merced (Argentina)",
+    "latitude": "-27.899838",
+    "longitude": "-55.885926",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/247.json",
+    "country_id": 2
+  },
+  {
+    "id": 9095,
+    "url_name": "la-montana",
+    "name": "La Montana",
+    "latitude": "-34.965061",
+    "longitude": "-70.957983",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9095.json",
+    "country_id": 1
+  },
+  {
+    "id": 9108,
+    "url_name": "lanco",
+    "name": "Lanco",
+    "latitude": "-39.45102",
+    "longitude": "-72.779617",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9108.json",
+    "country_id": 1
+  },
+  {
+    "id": 10268,
+    "url_name": "la-negra",
+    "name": "La Negra",
+    "latitude": "-23.8",
+    "longitude": "-70.3333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10268.json",
+    "country_id": 1
+  },
+  {
+    "id": 9096,
+    "url_name": "la-parva",
+    "name": "La Parva",
+    "latitude": "-33.340332",
+    "longitude": "-70.291711",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9096.json",
+    "country_id": 1
+  },
+  {
+    "id": 10301,
+    "url_name": "la-paz",
+    "name": "La Paz (Bolivia)",
+    "latitude": "-16.489689",
+    "longitude": "-68.119294",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10301.json",
+    "country_id": 7
+  },
+  {
+    "id": 9097,
+    "url_name": "la-piedra",
+    "name": "La Piedra",
+    "latitude": "-36.7667",
+    "longitude": "-73.2042",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9097.json",
+    "country_id": 1
+  },
+  {
+    "id": 251,
+    "url_name": "la-plata",
+    "name": "La Plata (Argentina)",
+    "latitude": "-34.920495",
+    "longitude": "-57.953566",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/251.json",
+    "country_id": 2
+  },
+  {
+    "id": 9109,
+    "url_name": "laraquete",
+    "name": "Laraquete",
+    "latitude": "-37.162547",
+    "longitude": "-73.181213",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9109.json",
+    "country_id": 1
+  },
+  {
+    "id": 256,
+    "url_name": "la-rioja",
+    "name": "La Rioja (Argentina)",
+    "latitude": "-29.413454",
+    "longitude": "-66.856458",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/256.json",
+    "country_id": 2
+  },
+  {
+    "id": 10280,
+    "url_name": "las-araas",
+    "name": "Las Araas",
+    "latitude": "-33.428184",
+    "longitude": "-70.762442",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10280.json",
+    "country_id": 1
+  },
+  {
+    "id": 9110,
+    "url_name": "las-cabras",
+    "name": "Las Cabras",
+    "latitude": "-34.293218",
+    "longitude": "-71.312629",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9110.json",
+    "country_id": 1
+  },
+  {
+    "id": 10327,
+    "url_name": "las-camelias",
+    "name": "Las Camelias",
+    "latitude": "-36.212682",
+    "longitude": "-71.605757",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10327.json",
+    "country_id": 1
+  },
+  {
+    "id": 9113,
+    "url_name": "las-corrientes",
+    "name": "Las Corrientes",
+    "latitude": "-37.342839",
+    "longitude": "-72.859013",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9113.json",
+    "country_id": 1
+  },
+  {
+    "id": 10309,
+    "url_name": "las-damas",
+    "name": "Las Damas",
+    "latitude": "-34.202415",
+    "longitude": "-71.742462",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10309.json",
+    "country_id": 1
+  },
+  {
+    "id": 9100,
+    "url_name": "la-serena",
+    "name": "La Serena",
+    "latitude": "-29.906301",
+    "longitude": "-71.250204",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9100.json",
+    "country_id": 1
+  },
+  {
+    "id": 5,
+    "url_name": "las-grutas",
+    "name": "Las Grutas (Argentina)",
+    "latitude": "-40.809",
+    "longitude": "-65.087888",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/5.json",
+    "country_id": 2
+  },
+  {
+    "id": 10281,
+    "url_name": "las-rosas",
+    "name": "Las Rosas",
+    "latitude": "-33.4167",
+    "longitude": "-71.1333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10281.json",
+    "country_id": 1
+  },
+  {
+    "id": 9116,
+    "url_name": "las-ventanas",
+    "name": "Las Ventanas",
+    "latitude": "-32.743291",
+    "longitude": "-71.488795",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9116.json",
+    "country_id": 1
+  },
+  {
+    "id": 257,
+    "url_name": "la-toma",
+    "name": "La Toma (Argentina)",
+    "latitude": "-33.054816",
+    "longitude": "-65.617494",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/257.json",
+    "country_id": 2
+  },
+  {
+    "id": 9102,
+    "url_name": "la-union",
+    "name": "La Unión",
+    "latitude": "-40.295275",
+    "longitude": "-73.079328",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9102.json",
+    "country_id": 1
+  },
+  {
+    "id": 9118,
+    "url_name": "lautaro",
+    "name": "Lautaro",
+    "latitude": "-38.508431",
+    "longitude": "-72.454134",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9118.json",
+    "country_id": 1
+  },
+  {
+    "id": 9119,
+    "url_name": "lebu",
+    "name": "Lebu",
+    "latitude": "-37.609714",
+    "longitude": "-73.648329",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9119.json",
+    "country_id": 1
+  },
+  {
+    "id": 9120,
+    "url_name": "lican-ray",
+    "name": "Licán Ray",
+    "latitude": "-39.496512",
+    "longitude": "-72.152416",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9120.json",
+    "country_id": 1
+  },
+  {
+    "id": 287,
+    "url_name": "lima",
+    "name": "Lima (Perú)",
+    "latitude": "-12.046374",
+    "longitude": "-77.042793",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/287.json",
+    "country_id": 4
+  },
+  {
+    "id": 9123,
+    "url_name": "limache",
+    "name": "Limache",
+    "latitude": "-33.009528",
+    "longitude": "-71.259589",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9123.json",
+    "country_id": 1
+  },
+  {
+    "id": 9124,
+    "url_name": "linares",
+    "name": "Linares",
+    "latitude": "-35.846407",
+    "longitude": "-71.599614",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9124.json",
+    "country_id": 1
+  },
+  {
+    "id": 6,
+    "url_name": "liniers",
+    "name": "Liniers (Argentina)",
+    "latitude": "-34.6436",
+    "longitude": "-58.5164",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/6.json",
+    "country_id": 2
+  },
+  {
+    "id": 9125,
+    "url_name": "litueche",
+    "name": "Litueche",
+    "latitude": "-34.123746",
+    "longitude": "-71.72848",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9125.json",
+    "country_id": 1
+  },
+  {
+    "id": 9127,
+    "url_name": "llanquihue",
+    "name": "Llanquihue",
+    "latitude": "-41.260631",
+    "longitude": "-73.007841",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9127.json",
+    "country_id": 1
+  },
+  {
+    "id": 9128,
+    "url_name": "llanta",
+    "name": "Llanta",
+    "latitude": "-27.387717",
+    "longitude": "-70.303474",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9128.json",
+    "country_id": 1
+  },
+  {
+    "id": 10313,
+    "url_name": "llanuras-de-diana",
+    "name": "Llanuras de Diana",
+    "latitude": "-51.807554",
+    "longitude": "-72.165347",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10313.json",
+    "country_id": 1
+  },
+  {
+    "id": 9126,
+    "url_name": "llay-llay",
+    "name": "Llay-Llay",
+    "latitude": "-32.840509",
+    "longitude": "-70.959207",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9126.json",
+    "country_id": 1
+  },
+  {
+    "id": 9129,
+    "url_name": "llifen",
+    "name": "Llifen",
+    "latitude": "-40.209542",
+    "longitude": "-72.265037",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9129.json",
+    "country_id": 1
+  },
+  {
+    "id": 9130,
+    "url_name": "llolleo",
+    "name": "Llolleo",
+    "latitude": "-33.616109",
+    "longitude": "-71.615413",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9130.json",
+    "country_id": 1
+  },
+  {
+    "id": 9131,
+    "url_name": "lolol",
+    "name": "Lolol",
+    "latitude": "-34.728417",
+    "longitude": "-71.645824",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9131.json",
+    "country_id": 1
+  },
+  {
+    "id": 9132,
+    "url_name": "loncoche",
+    "name": "Loncoche",
+    "latitude": "-39.36812",
+    "longitude": "-72.631513",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9132.json",
+    "country_id": 1
+  },
+  {
+    "id": 10292,
+    "url_name": "loncura",
+    "name": "Loncura",
+    "latitude": "-32.7878",
+    "longitude": "-71.5056",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10292.json",
+    "country_id": 1
+  },
+  {
+    "id": 9133,
+    "url_name": "longavi",
+    "name": "Longavi",
+    "latitude": "-35.963627",
+    "longitude": "-71.683125",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9133.json",
+    "country_id": 1
+  },
+  {
+    "id": 9134,
+    "url_name": "lonquimay",
+    "name": "Lonquimay",
+    "latitude": "-38.454178",
+    "longitude": "-71.369787",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9134.json",
+    "country_id": 1
+  },
+  {
+    "id": 291,
+    "url_name": "loreto",
+    "name": "Loreto (Argentina)",
+    "latitude": "-28.3",
+    "longitude": "-64.2",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/291.json",
+    "country_id": 2
+  },
+  {
+    "id": 9136,
+    "url_name": "los-alamos",
+    "name": "Los Álamos",
+    "latitude": "-37.625965",
+    "longitude": "-73.462339",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9136.json",
+    "country_id": 1
+  },
+  {
+    "id": 9137,
+    "url_name": "los-andes",
+    "name": "Los Andes",
+    "latitude": "-32.8338",
+    "longitude": "-70.597218",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9137.json",
+    "country_id": 1
+  },
+  {
+    "id": 9138,
+    "url_name": "los-angeles",
+    "name": "Los Ángeles",
+    "latitude": "-37.472872",
+    "longitude": "-72.354452",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9138.json",
+    "country_id": 1
+  },
+  {
+    "id": 9139,
+    "url_name": "los-castanos",
+    "name": "Los Castanos",
+    "latitude": "-36.93951",
+    "longitude": "-73.020848",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9139.json",
+    "country_id": 1
+  },
+  {
+    "id": 9140,
+    "url_name": "los-lagos",
+    "name": "Los Lagos",
+    "latitude": "-39.862498",
+    "longitude": "-72.827314",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9140.json",
+    "country_id": 1
+  },
+  {
+    "id": 9144,
+    "url_name": "los-muermos",
+    "name": "Los Muermos",
+    "latitude": "-41.399409",
+    "longitude": "-73.464991",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9144.json",
+    "country_id": 1
+  },
+  {
+    "id": 9147,
+    "url_name": "los-sauces",
+    "name": "Los Sauces",
+    "latitude": "-37.979103",
+    "longitude": "-72.834481",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9147.json",
+    "country_id": 1
+  },
+  {
+    "id": 9148,
+    "url_name": "los-vilos",
+    "name": "Los Vilos",
+    "latitude": "-31.912187",
+    "longitude": "-71.511202",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9148.json",
+    "country_id": 1
+  },
+  {
+    "id": 9149,
+    "url_name": "lota",
+    "name": "Lota",
+    "latitude": "-37.092058",
+    "longitude": "-73.154582",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9149.json",
+    "country_id": 1
+  },
+  {
+    "id": 10269,
+    "url_name": "lo-vasquez",
+    "name": "Lo Vásquez",
+    "latitude": "-33.260847",
+    "longitude": "-71.435272",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10269.json",
+    "country_id": 1
+  },
+  {
+    "id": 300,
+    "url_name": "luis-piedra-buena",
+    "name": "Luis Piedra Buena (Argentina)",
+    "latitude": "-34.781891",
+    "longitude": "-58.353345",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/300.json",
+    "country_id": 2
+  },
+  {
+    "id": 9150,
+    "url_name": "lumaco",
+    "name": "Lumaco",
+    "latitude": "-38.16402",
+    "longitude": "-72.903185",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9150.json",
+    "country_id": 1
+  },
+  {
+    "id": 9151,
+    "url_name": "machali",
+    "name": "Machali",
+    "latitude": "-34.179452",
+    "longitude": "-70.656515",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9151.json",
+    "country_id": 1
+  },
+  {
+    "id": 9153,
+    "url_name": "mafil",
+    "name": "Mafil",
+    "latitude": "-39.664898",
+    "longitude": "-72.957157",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9153.json",
+    "country_id": 1
+  },
+  {
+    "id": 9156,
+    "url_name": "maitencillo",
+    "name": "Maitencillo",
+    "latitude": "-32.647735",
+    "longitude": "-71.43866",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9156.json",
+    "country_id": 1
+  },
+  {
+    "id": 9157,
+    "url_name": "malalcahuello",
+    "name": "Malalcahuello",
+    "latitude": "-38.472047",
+    "longitude": "-71.606019",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9157.json",
+    "country_id": 1
+  },
+  {
+    "id": 9158,
+    "url_name": "malalhue",
+    "name": "Malalhue",
+    "latitude": "-39.540061",
+    "longitude": "-72.512964",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9158.json",
+    "country_id": 1
+  },
+  {
+    "id": 10282,
+    "url_name": "mandinga",
+    "name": "Mandinga",
+    "latitude": "-33.79412",
+    "longitude": "-71.297494",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10282.json",
+    "country_id": 1
+  },
+  {
+    "id": 9160,
+    "url_name": "marchigue",
+    "name": "Marchigue",
+    "latitude": "-34.398447",
+    "longitude": "-71.621572",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9160.json",
+    "country_id": 1
+  },
+  {
+    "id": 9161,
+    "url_name": "maria-elena",
+    "name": "Maria Elena",
+    "latitude": "-22.345005",
+    "longitude": "-69.660706",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9161.json",
+    "country_id": 1
+  },
+  {
+    "id": 10287,
+    "url_name": "matanzas",
+    "name": "Matanzas",
+    "latitude": "-33.963585",
+    "longitude": "-71.875569",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10287.json",
+    "country_id": 1
+  },
+  {
+    "id": 9164,
+    "url_name": "maullin",
+    "name": "Maullín",
+    "latitude": "-41.614807",
+    "longitude": "-73.599028",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9164.json",
+    "country_id": 1
+  },
+  {
+    "id": 314,
+    "url_name": "media-agua",
+    "name": "Media Agua (Argentina)",
+    "latitude": "-31.982668",
+    "longitude": "-68.428848",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/314.json",
+    "country_id": 2
+  },
+  {
+    "id": 10328,
+    "url_name": "mehuin",
+    "name": "Mehuin",
+    "latitude": "-39.429798",
+    "longitude": "-73.213904",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10328.json",
+    "country_id": 1
+  },
+  {
+    "id": 9165,
+    "url_name": "mejillones",
+    "name": "Mejillones",
+    "latitude": "-23.098501",
+    "longitude": "-70.445504",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9165.json",
+    "country_id": 1
+  },
+  {
+    "id": 9166,
+    "url_name": "melipeuco",
+    "name": "Melipeuco",
+    "latitude": "-38.852306",
+    "longitude": "-71.692943",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9166.json",
+    "country_id": 1
+  },
+  {
+    "id": 9167,
+    "url_name": "melipilla",
+    "name": "Melipilla",
+    "latitude": "-33.686159",
+    "longitude": "-71.216684",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9167.json",
+    "country_id": 1
+  },
+  {
+    "id": 10273,
+    "url_name": "mendoza",
+    "name": "Mendoza (Argentina)",
+    "latitude": "-32.889459",
+    "longitude": "-68.845839",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10273.json",
+    "country_id": 2
+  },
+  {
+    "id": 316,
+    "url_name": "merlo",
+    "name": "Merlo (Argentina)",
+    "latitude": "-34.6685",
+    "longitude": "-58.728248",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/316.json",
+    "country_id": 2
+  },
+  {
+    "id": 317,
+    "url_name": "metan",
+    "name": "Metan (Argentina)",
+    "latitude": "-25.494225",
+    "longitude": "-64.97213",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/317.json",
+    "country_id": 2
+  },
+  {
+    "id": 10308,
+    "url_name": "metrenco",
+    "name": "Metrenco",
+    "latitude": "-38.833333",
+    "longitude": "-72.616667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10308.json",
+    "country_id": 1
+  },
+  {
+    "id": 10320,
+    "url_name": "mina-centinela",
+    "name": "Mina Centinela",
+    "latitude": "-23.009815",
+    "longitude": "-69.116401",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10320.json",
+    "country_id": 1
+  },
+  {
+    "id": 320,
+    "url_name": "mina-clavero",
+    "name": "Mina Clavero (Argentina)",
+    "latitude": "-31.720169",
+    "longitude": "-65.006866",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/320.json",
+    "country_id": 2
+  },
+  {
+    "id": 10325,
+    "url_name": "mina-gabriela-mistral",
+    "name": "Mina Gabriela Mistral",
+    "latitude": "-23.423255",
+    "longitude": "-68.79631",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10325.json",
+    "country_id": 1
+  },
+  {
+    "id": 9170,
+    "url_name": "molco",
+    "name": "Molco",
+    "latitude": "-39.330875",
+    "longitude": "-72.094522",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9170.json",
+    "country_id": 1
+  },
+  {
+    "id": 9171,
+    "url_name": "molina",
+    "name": "Molina",
+    "latitude": "-35.116499",
+    "longitude": "-71.282976",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9171.json",
+    "country_id": 1
+  },
+  {
+    "id": 9172,
+    "url_name": "monte-aguila",
+    "name": "Monte Aguila",
+    "latitude": "-37.080342",
+    "longitude": "-72.439919",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9172.json",
+    "country_id": 1
+  },
+  {
+    "id": 325,
+    "url_name": "monteros",
+    "name": "Monteros (Argentina)",
+    "latitude": "-27.163958",
+    "longitude": "-65.49633",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/325.json",
+    "country_id": 2
+  },
+  {
+    "id": 9175,
+    "url_name": "mulchen",
+    "name": "Mulchén",
+    "latitude": "-37.717881",
+    "longitude": "-72.237434",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9175.json",
+    "country_id": 1
+  },
+  {
+    "id": 9176,
+    "url_name": "nacimiento",
+    "name": "Nacimiento",
+    "latitude": "-37.505906",
+    "longitude": "-72.673788",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9176.json",
+    "country_id": 1
+  },
+  {
+    "id": 9177,
+    "url_name": "nancagua",
+    "name": "Nancagua",
+    "latitude": "-34.652321",
+    "longitude": "-71.19686",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9177.json",
+    "country_id": 1
+  },
+  {
+    "id": 10288,
+    "url_name": "navidad",
+    "name": "Navidad",
+    "latitude": "-33.959395",
+    "longitude": "-71.829519",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10288.json",
+    "country_id": 1
+  },
+  {
+    "id": 9178,
+    "url_name": "negrete",
+    "name": "Negrete",
+    "latitude": "-37.586253",
+    "longitude": "-72.532056",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9178.json",
+    "country_id": 1
+  },
+  {
+    "id": 10258,
+    "url_name": "neuquen",
+    "name": "Neuquén (Argentina)",
+    "latitude": "-38.952444",
+    "longitude": "-68.064139",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10258.json",
+    "country_id": 2
+  },
+  {
+    "id": 9180,
+    "url_name": "ninhue",
+    "name": "Ninhue",
+    "latitude": "-36.4",
+    "longitude": "-72.4",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9180.json",
+    "country_id": 1
+  },
+  {
+    "id": 9181,
+    "url_name": "nipas",
+    "name": "Ñipas",
+    "latitude": "-36.603231",
+    "longitude": "-72.537205",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9181.json",
+    "country_id": 1
+  },
+  {
+    "id": 9183,
+    "url_name": "nogales",
+    "name": "Nogales",
+    "latitude": "-32.7333",
+    "longitude": "-71.204212",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9183.json",
+    "country_id": 1
+  },
+  {
+    "id": 336,
+    "url_name": "nogoli",
+    "name": "Nogoli (Argentina)",
+    "latitude": "-32.919825",
+    "longitude": "-68.876793",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/336.json",
+    "country_id": 2
+  },
+  {
+    "id": 9185,
+    "url_name": "nueva-imperial",
+    "name": "Nueva Imperial",
+    "latitude": "-38.744522",
+    "longitude": "-72.948228",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9185.json",
+    "country_id": 1
+  },
+  {
+    "id": 9186,
+    "url_name": "nueva-tolten",
+    "name": "Nueva Tolten",
+    "latitude": "-39.204326",
+    "longitude": "-73.207744",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9186.json",
+    "country_id": 1
+  },
+  {
+    "id": 10274,
+    "url_name": "ollagüe",
+    "name": "Ollagüe",
+    "latitude": "-21.225692",
+    "longitude": "-68.25478",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10274.json",
+    "country_id": 1
+  },
+  {
+    "id": 342,
+    "url_name": "oran",
+    "name": "Oran (Argentina)",
+    "latitude": "-23.128383",
+    "longitude": "-64.321699",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/342.json",
+    "country_id": 2
+  },
+  {
+    "id": 9189,
+    "url_name": "osorno",
+    "name": "Osorno",
+    "latitude": "-40.574506",
+    "longitude": "-73.131918",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9189.json",
+    "country_id": 1
+  },
+  {
+    "id": 343,
+    "url_name": "ototel-aike",
+    "name": "Ototel Aike (Argentina)",
+    "latitude": "-50.8167",
+    "longitude": "-69.5167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/343.json",
+    "country_id": 2
+  },
+  {
+    "id": 9190,
+    "url_name": "ovalle",
+    "name": "Ovalle",
+    "latitude": "-30.5983",
+    "longitude": "-71.2003",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9190.json",
+    "country_id": 1
+  },
+  {
+    "id": 10306,
+    "url_name": "padre-las-casas",
+    "name": "Padre Las Casas",
+    "latitude": "-38.767348",
+    "longitude": "-72.61091",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10306.json",
+    "country_id": 1
+  },
+  {
+    "id": 9192,
+    "url_name": "pailahueque",
+    "name": "Pailahueque",
+    "latitude": "-38.127332",
+    "longitude": "-72.300728",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9192.json",
+    "country_id": 1
+  },
+  {
+    "id": 9193,
+    "url_name": "paillaco",
+    "name": "Paillaco",
+    "latitude": "-40.068428",
+    "longitude": "-72.874841",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9193.json",
+    "country_id": 1
+  },
+  {
+    "id": 9194,
+    "url_name": "paine",
+    "name": "Paine",
+    "latitude": "-33.812566",
+    "longitude": "-70.737597",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9194.json",
+    "country_id": 1
+  },
+  {
+    "id": 9195,
+    "url_name": "palmilla",
+    "name": "Palmilla",
+    "latitude": "-34.577422",
+    "longitude": "-71.380135",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9195.json",
+    "country_id": 1
+  },
+  {
+    "id": 9197,
+    "url_name": "panguipulli",
+    "name": "Panguipulli",
+    "latitude": "-39.643632",
+    "longitude": "-72.336494",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9197.json",
+    "country_id": 1
+  },
+  {
+    "id": 9198,
+    "url_name": "panimavida",
+    "name": "Panimavida",
+    "latitude": "-35.757788",
+    "longitude": "-71.417722",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9198.json",
+    "country_id": 1
+  },
+  {
+    "id": 9200,
+    "url_name": "papudo",
+    "name": "Papudo",
+    "latitude": "-32.507209",
+    "longitude": "-71.448501",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9200.json",
+    "country_id": 1
+  },
+  {
+    "id": 9201,
+    "url_name": "paredones",
+    "name": "Paredones",
+    "latitude": "-34.651965",
+    "longitude": "-71.900145",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9201.json",
+    "country_id": 1
+  },
+  {
+    "id": 9202,
+    "url_name": "parral",
+    "name": "Parral",
+    "latitude": "-36.139959",
+    "longitude": "-71.824441",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9202.json",
+    "country_id": 1
+  },
+  {
+    "id": 358,
+    "url_name": "patquia",
+    "name": "Patquia (Argentina)",
+    "latitude": "-30.043436",
+    "longitude": "-66.879669",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/358.json",
+    "country_id": 2
+  },
+  {
+    "id": 10277,
+    "url_name": "peine",
+    "name": "Peine",
+    "latitude": "-23.6833",
+    "longitude": "-68.0667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10277.json",
+    "country_id": 1
+  },
+  {
+    "id": 9205,
+    "url_name": "pelequen",
+    "name": "Pelequen",
+    "latitude": "-34.472698",
+    "longitude": "-70.895063",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9205.json",
+    "country_id": 1
+  },
+  {
+    "id": 9206,
+    "url_name": "pelluhue",
+    "name": "Pelluhue",
+    "latitude": "-35.905132",
+    "longitude": "-72.591462",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9206.json",
+    "country_id": 1
+  },
+  {
+    "id": 9207,
+    "url_name": "pemuco",
+    "name": "Pemuco",
+    "latitude": "-36.9667",
+    "longitude": "-72.1",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9207.json",
+    "country_id": 1
+  },
+  {
+    "id": 9211,
+    "url_name": "penco",
+    "name": "Penco",
+    "latitude": "-36.7333",
+    "longitude": "-72.9833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9211.json",
+    "country_id": 1
+  },
+  {
+    "id": 9212,
+    "url_name": "peralillo",
+    "name": "Peralillo",
+    "latitude": "-34.477268",
+    "longitude": "-71.487259",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9212.json",
+    "country_id": 1
+  },
+  {
+    "id": 9213,
+    "url_name": "perquenco",
+    "name": "Perquenco",
+    "latitude": "-38.416109",
+    "longitude": "-72.375622",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9213.json",
+    "country_id": 1
+  },
+  {
+    "id": 363,
+    "url_name": "peru--la-pampa",
+    "name": "Peru (La Pampa) (Argentina)",
+    "latitude": "-37.660415",
+    "longitude": "-64.1394",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/363.json",
+    "country_id": 2
+  },
+  {
+    "id": 9214,
+    "url_name": "petorca",
+    "name": "Petorca",
+    "latitude": "-32.25",
+    "longitude": "-70.9333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9214.json",
+    "country_id": 1
+  },
+  {
+    "id": 9215,
+    "url_name": "peumo",
+    "name": "Peumo",
+    "latitude": "-34.396339",
+    "longitude": "-71.170079",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9215.json",
+    "country_id": 1
+  },
+  {
+    "id": 9220,
+    "url_name": "pichilemu",
+    "name": "Pichilemu",
+    "latitude": "-34.386725",
+    "longitude": "-72.004773",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9220.json",
+    "country_id": 1
+  },
+  {
+    "id": 9222,
+    "url_name": "pidima",
+    "name": "Pidima",
+    "latitude": "-38.018101",
+    "longitude": "-72.427762",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9222.json",
+    "country_id": 1
+  },
+  {
+    "id": 9224,
+    "url_name": "pinchafil",
+    "name": "Pinchafil",
+    "latitude": "-39.3453",
+    "longitude": "-72.4866",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9224.json",
+    "country_id": 1
+  },
+  {
+    "id": 9225,
+    "url_name": "pinto",
+    "name": "Pinto",
+    "latitude": "-36.7",
+    "longitude": "-71.894094",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9225.json",
+    "country_id": 1
+  },
+  {
+    "id": 9227,
+    "url_name": "pitrufquen",
+    "name": "Pitrufquen",
+    "latitude": "-38.9833",
+    "longitude": "-72.641731",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9227.json",
+    "country_id": 1
+  },
+  {
+    "id": 9228,
+    "url_name": "placilla",
+    "name": "Placilla",
+    "latitude": "-34.633795",
+    "longitude": "-71.110827",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9228.json",
+    "country_id": 1
+  },
+  {
+    "id": 10259,
+    "url_name": "plottier",
+    "name": "Plottier (Argentina)",
+    "latitude": "-38.953548",
+    "longitude": "-68.231216",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10259.json",
+    "country_id": 2
+  },
+  {
+    "id": 374,
+    "url_name": "pocitos",
+    "name": "Pocitos (Argentina)",
+    "latitude": "-24.33333",
+    "longitude": "-67.01667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/374.json",
+    "country_id": 2
+  },
+  {
+    "id": 10297,
+    "url_name": "polcura",
+    "name": "Polcura",
+    "latitude": "-37.293782",
+    "longitude": "-71.741986",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10297.json",
+    "country_id": 1
+  },
+  {
+    "id": 9232,
+    "url_name": "portal-del-inca",
+    "name": "Portal Del Inca",
+    "latitude": "-26.282451",
+    "longitude": "-69.588136",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9232.json",
+    "country_id": 1
+  },
+  {
+    "id": 378,
+    "url_name": "portezuelo--lr",
+    "name": "Portezuelo (LR) (Argentina)",
+    "latitude": "-29.413334",
+    "longitude": "-66.832664",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/378.json",
+    "country_id": 2
+  },
+  {
+    "id": 377,
+    "url_name": "portezuelo--sl",
+    "name": "Portezuelo (SL) (Argentina)",
+    "latitude": "-32.337999",
+    "longitude": "-65.009157",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/377.json",
+    "country_id": 2
+  },
+  {
+    "id": 10324,
+    "url_name": "portillo",
+    "name": "Portillo",
+    "latitude": null,
+    "longitude": null,
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10324.json",
+    "country_id": 1
+  },
+  {
+    "id": 379,
+    "url_name": "posadas",
+    "name": "Posadas (Argentina)",
+    "latitude": "-27.362137",
+    "longitude": "-55.900875",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/379.json",
+    "country_id": 2
+  },
+  {
+    "id": 9236,
+    "url_name": "pozo-almonte",
+    "name": "Pozo Almonte",
+    "latitude": "-20.256709",
+    "longitude": "-69.786013",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9236.json",
+    "country_id": 1
+  },
+  {
+    "id": 386,
+    "url_name": "pto-esperanza",
+    "name": "Pto Esperanza (Argentina)",
+    "latitude": "-43.083328",
+    "longitude": "-70.616669",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/386.json",
+    "country_id": 2
+  },
+  {
+    "id": 387,
+    "url_name": "pto-san-julian",
+    "name": "Pto San Julian (Argentina)",
+    "latitude": "-49.306894",
+    "longitude": "-67.729825",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/387.json",
+    "country_id": 2
+  },
+  {
+    "id": 388,
+    "url_name": "pto-santa-cruz",
+    "name": "Pto Santa Cruz (Argentina)",
+    "latitude": "-50.019333",
+    "longitude": "-68.521805",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/388.json",
+    "country_id": 2
+  },
+  {
+    "id": 9238,
+    "url_name": "pua",
+    "name": "Pua",
+    "latitude": "-38.3167",
+    "longitude": "-72.3833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9238.json",
+    "country_id": 1
+  },
+  {
+    "id": 9239,
+    "url_name": "puchuncavi",
+    "name": "Puchuncavi",
+    "latitude": "-32.722005",
+    "longitude": "-71.4117",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9239.json",
+    "country_id": 1
+  },
+  {
+    "id": 9240,
+    "url_name": "pucon",
+    "name": "Pucón",
+    "latitude": "-39.272254",
+    "longitude": "-71.977629",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9240.json",
+    "country_id": 1
+  },
+  {
+    "id": 10331,
+    "url_name": "pueblo-seco",
+    "name": "Pueblo Seco",
+    "latitude": "-36.881084",
+    "longitude": "-72.095067",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10331.json",
+    "country_id": 1
+  },
+  {
+    "id": 10467,
+    "url_name": "puerto-aysen",
+    "name": "Puerto Aysén",
+    "latitude": "-45.403318",
+    "longitude": "-72.696029",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10467.json",
+    "country_id": 1
+  },
+  {
+    "id": 10329,
+    "url_name": "puerto-dominguez",
+    "name": "Puerto Domínguez",
+    "latitude": "-38.897599",
+    "longitude": "-73.25709",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10329.json",
+    "country_id": 1
+  },
+  {
+    "id": 7,
+    "url_name": "puerto-iguazu",
+    "name": "Puerto Iguazú (Argentina)",
+    "latitude": "-25.597164",
+    "longitude": "-54.578599",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/7.json",
+    "country_id": 2
+  },
+  {
+    "id": 15,
+    "url_name": "puerto-madryn",
+    "name": "Puerto Madryn (Argentina)",
+    "latitude": "-42.769448",
+    "longitude": "-65.031718",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/15.json",
+    "country_id": 2
+  },
+  {
+    "id": 9246,
+    "url_name": "puerto-montt",
+    "name": "Puerto Montt",
+    "latitude": "-41.4717",
+    "longitude": "-72.9369",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9246.json",
+    "country_id": 1
+  },
+  {
+    "id": 9247,
+    "url_name": "puerto-natales",
+    "name": "Puerto Natales",
+    "latitude": "-51.7333",
+    "longitude": "-72.50378",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9247.json",
+    "country_id": 1
+  },
+  {
+    "id": 395,
+    "url_name": "puerto-piray",
+    "name": "Puerto Piray (Argentina)",
+    "latitude": "-26.46607",
+    "longitude": "-54.700932",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/395.json",
+    "country_id": 2
+  },
+  {
+    "id": 396,
+    "url_name": "puerto-rico",
+    "name": "Puerto Rico (Argentina)",
+    "latitude": "-26.810125",
+    "longitude": "-55.025204",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/396.json",
+    "country_id": 2
+  },
+  {
+    "id": 9249,
+    "url_name": "puerto-saavedra",
+    "name": "Puerto Saavedra",
+    "latitude": "-38.783056",
+    "longitude": "-73.4",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9249.json",
+    "country_id": 1
+  },
+  {
+    "id": 9250,
+    "url_name": "puerto-varas",
+    "name": "Puerto Varas",
+    "latitude": "-41.3167",
+    "longitude": "-72.9833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9250.json",
+    "country_id": 1
+  },
+  {
+    "id": 9253,
+    "url_name": "pullally",
+    "name": "Pullally",
+    "latitude": "-32.440441",
+    "longitude": "-71.323348",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9253.json",
+    "country_id": 1
+  },
+  {
+    "id": 10294,
+    "url_name": "pumanque",
+    "name": "Pumanque",
+    "latitude": "-34.602499",
+    "longitude": "-71.655845",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10294.json",
+    "country_id": 1
+  },
+  {
+    "id": 9255,
+    "url_name": "punta-arenas",
+    "name": "Punta Arenas",
+    "latitude": "-53.154478",
+    "longitude": "-70.916476",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9255.json",
+    "country_id": 1
+  },
+  {
+    "id": 10314,
+    "url_name": "punta-arenas---aeropuerto-puq",
+    "name": "Punta Arenas - Aeropuerto PUQ",
+    "latitude": "-53.005088",
+    "longitude": "-70.845249",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10314.json",
+    "country_id": 1
+  },
+  {
+    "id": 10289,
+    "url_name": "pupuya",
+    "name": "Pupuya",
+    "latitude": "-34.031295",
+    "longitude": "-71.8425",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10289.json",
+    "country_id": 1
+  },
+  {
+    "id": 9257,
+    "url_name": "puren",
+    "name": "Purén",
+    "latitude": "-38.030284",
+    "longitude": "-73.081528",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9257.json",
+    "country_id": 1
+  },
+  {
+    "id": 401,
+    "url_name": "purmamarca",
+    "name": "Purmamarca (Argentina)",
+    "latitude": "-23.746636",
+    "longitude": "-65.499245",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/401.json",
+    "country_id": 2
+  },
+  {
+    "id": 9258,
+    "url_name": "purranque",
+    "name": "Purranque",
+    "latitude": "-40.908431",
+    "longitude": "-73.166109",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9258.json",
+    "country_id": 1
+  },
+  {
+    "id": 9259,
+    "url_name": "putaendo",
+    "name": "Putaendo",
+    "latitude": "-32.628461",
+    "longitude": "-70.717743",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9259.json",
+    "country_id": 1
+  },
+  {
+    "id": 10466,
+    "url_name": "puyuhuapi",
+    "name": "Puyuhuapi",
+    "latitude": "-44.325126",
+    "longitude": "-72.560447",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10466.json",
+    "country_id": 1
+  },
+  {
+    "id": 9261,
+    "url_name": "queilen",
+    "name": "Queilén",
+    "latitude": "-42.621944",
+    "longitude": "-73.774167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9261.json",
+    "country_id": 1
+  },
+  {
+    "id": 10283,
+    "url_name": "quelentaro",
+    "name": "Quelentaro",
+    "latitude": "-34.013156",
+    "longitude": "-71.565519",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10283.json",
+    "country_id": 1
+  },
+  {
+    "id": 9262,
+    "url_name": "quellon",
+    "name": "Quellón",
+    "latitude": "-43.137058",
+    "longitude": "-73.663948",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9262.json",
+    "country_id": 1
+  },
+  {
+    "id": 9263,
+    "url_name": "quemchi",
+    "name": "Quemchi",
+    "latitude": "-42.142763",
+    "longitude": "-73.474318",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9263.json",
+    "country_id": 1
+  },
+  {
+    "id": 9264,
+    "url_name": "quepe",
+    "name": "Quepe",
+    "latitude": "-38.86534",
+    "longitude": "-72.613027",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9264.json",
+    "country_id": 1
+  },
+  {
+    "id": 10318,
+    "url_name": "queule",
+    "name": "Queule",
+    "latitude": "-39.398407",
+    "longitude": "-73.209306",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10318.json",
+    "country_id": 1
+  },
+  {
+    "id": 9265,
+    "url_name": "quidico",
+    "name": "Quidico",
+    "latitude": "-38.250569",
+    "longitude": "-73.485334",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9265.json",
+    "country_id": 1
+  },
+  {
+    "id": 9268,
+    "url_name": "quilleco",
+    "name": "Quilleco",
+    "latitude": "-37.474165",
+    "longitude": "-71.983621",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9268.json",
+    "country_id": 1
+  },
+  {
+    "id": 9269,
+    "url_name": "quillon",
+    "name": "Quillón",
+    "latitude": "-36.733891",
+    "longitude": "-72.460203",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9269.json",
+    "country_id": 1
+  },
+  {
+    "id": 9270,
+    "url_name": "quillota",
+    "name": "Quillota",
+    "latitude": "-32.880303",
+    "longitude": "-71.249716",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9270.json",
+    "country_id": 1
+  },
+  {
+    "id": 9271,
+    "url_name": "quilpue",
+    "name": "Quilpué",
+    "latitude": "-33.049725",
+    "longitude": "-71.431091",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9271.json",
+    "country_id": 1
+  },
+  {
+    "id": 9272,
+    "url_name": "quinanahuin",
+    "name": "Quinanahuin",
+    "latitude": "-39.216582",
+    "longitude": "-71.556784",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9272.json",
+    "country_id": 1
+  },
+  {
+    "id": 10295,
+    "url_name": "quinchamali",
+    "name": "Quinchamali",
+    "latitude": "-36.648201",
+    "longitude": "-72.408765",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10295.json",
+    "country_id": 1
+  },
+  {
+    "id": 9273,
+    "url_name": "quino",
+    "name": "Quino",
+    "latitude": "-38.3",
+    "longitude": "-72.35",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9273.json",
+    "country_id": 1
+  },
+  {
+    "id": 9277,
+    "url_name": "quintero",
+    "name": "Quintero",
+    "latitude": "-32.77231",
+    "longitude": "-71.5333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9277.json",
+    "country_id": 1
+  },
+  {
+    "id": 9278,
+    "url_name": "quirihue",
+    "name": "Quirihue",
+    "latitude": "-36.2833",
+    "longitude": "-72.5333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9278.json",
+    "country_id": 1
+  },
+  {
+    "id": 413,
+    "url_name": "rafaela",
+    "name": "Rafaela (Argentina)",
+    "latitude": "-31.252598",
+    "longitude": "-61.491642",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/413.json",
+    "country_id": 2
+  },
+  {
+    "id": 9279,
+    "url_name": "ramadilla",
+    "name": "Ramadilla",
+    "latitude": "-27.356761",
+    "longitude": "-70.316411",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9279.json",
+    "country_id": 1
+  },
+  {
+    "id": 9280,
+    "url_name": "rancagua",
+    "name": "Rancagua",
+    "latitude": "-34.168052",
+    "longitude": "-70.738965",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9280.json",
+    "country_id": 1
+  },
+  {
+    "id": 10291,
+    "url_name": "rapel",
+    "name": "Rapel (Comuna Navidad)",
+    "latitude": "-30.723894",
+    "longitude": "-70.768192",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10291.json",
+    "country_id": 1
+  },
+  {
+    "id": 409,
+    "url_name": "rawson",
+    "name": "Rawson (Argentina)",
+    "latitude": "-43.299858",
+    "longitude": "-65.099487",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/409.json",
+    "country_id": 2
+  },
+  {
+    "id": 417,
+    "url_name": "realico",
+    "name": "Realico (Argentina)",
+    "latitude": "-35.038017",
+    "longitude": "-64.246574",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/417.json",
+    "country_id": 2
+  },
+  {
+    "id": 9282,
+    "url_name": "recinto-los-lleuques",
+    "name": "Recinto-Los Lleuques",
+    "latitude": "-36.702299",
+    "longitude": "-71.89397",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9282.json",
+    "country_id": 1
+  },
+  {
+    "id": 9284,
+    "url_name": "reigolil",
+    "name": "Reigolil",
+    "latitude": "-39.137423",
+    "longitude": "-71.488522",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9284.json",
+    "country_id": 1
+  },
+  {
+    "id": 9285,
+    "url_name": "renaico",
+    "name": "Renaico",
+    "latitude": "-37.673788",
+    "longitude": "-72.589206",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9285.json",
+    "country_id": 1
+  },
+  {
+    "id": 9287,
+    "url_name": "rengo",
+    "name": "Rengo",
+    "latitude": "-34.402379",
+    "longitude": "-70.867441",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9287.json",
+    "country_id": 1
+  },
+  {
+    "id": 9288,
+    "url_name": "requinoa",
+    "name": "Requinoa",
+    "latitude": "-34.288375",
+    "longitude": "-70.815833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9288.json",
+    "country_id": 1
+  },
+  {
+    "id": 421,
+    "url_name": "resistencia",
+    "name": "Resistencia (Argentina)",
+    "latitude": "-27.451862",
+    "longitude": "-58.985555",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/421.json",
+    "country_id": 2
+  },
+  {
+    "id": 9289,
+    "url_name": "retiro",
+    "name": "Retiro",
+    "latitude": "-36.05",
+    "longitude": "-71.7667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9289.json",
+    "country_id": 1
+  },
+  {
+    "id": 9292,
+    "url_name": "rio-bueno",
+    "name": "Rio Bueno",
+    "latitude": "-40.331342",
+    "longitude": "-72.948537",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9292.json",
+    "country_id": 1
+  },
+  {
+    "id": 410,
+    "url_name": "rio-colorado",
+    "name": "Rio Colorado (Argentina)",
+    "latitude": "-38.990964",
+    "longitude": "-64.095775",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/410.json",
+    "country_id": 2
+  },
+  {
+    "id": 423,
+    "url_name": "rio-cuarto",
+    "name": "Rio Cuarto (Argentina)",
+    "latitude": "-33.123159",
+    "longitude": "-64.349344",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/423.json",
+    "country_id": 2
+  },
+  {
+    "id": 16,
+    "url_name": "rio-gallegos",
+    "name": "Rio Gallegos (Argentina)",
+    "latitude": "-51.623049",
+    "longitude": "-69.216829",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/16.json",
+    "country_id": 2
+  },
+  {
+    "id": 424,
+    "url_name": "rio-grande",
+    "name": "Rio Grande (Argentina)",
+    "latitude": "-53.786037",
+    "longitude": "-67.700224",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/424.json",
+    "country_id": 2
+  },
+  {
+    "id": 10302,
+    "url_name": "rosario",
+    "name": "Rosario",
+    "latitude": "-34.351063",
+    "longitude": "-70.850963",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10302.json",
+    "country_id": 1
+  },
+  {
+    "id": 21,
+    "url_name": "rosario-de-la-frontera",
+    "name": "Rosario de la Frontera (Argentina)",
+    "latitude": "-25.798651",
+    "longitude": "-64.967651",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/21.json",
+    "country_id": 2
+  },
+  {
+    "id": 9297,
+    "url_name": "rosario--santa-fe",
+    "name": "Rosario (Santa Fe) (Argentina)",
+    "latitude": "-32.952284",
+    "longitude": "-60.768197",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9297.json",
+    "country_id": 2
+  },
+  {
+    "id": 9300,
+    "url_name": "salamanca",
+    "name": "Salamanca",
+    "latitude": "-31.782493",
+    "longitude": "-70.960711",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9300.json",
+    "country_id": 1
+  },
+  {
+    "id": 2,
+    "url_name": "salta",
+    "name": "Salta (Argentina)",
+    "latitude": "-24.783333",
+    "longitude": "-65.416667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/2.json",
+    "country_id": 2
+  },
+  {
+    "id": 9301,
+    "url_name": "salto-del-laja",
+    "name": "Salto Del Laja",
+    "latitude": "-33.586074",
+    "longitude": "-70.592908",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9301.json",
+    "country_id": 1
+  },
+  {
+    "id": 439,
+    "url_name": "sampacho",
+    "name": "Sampacho (Argentina)",
+    "latitude": "-33.384321",
+    "longitude": "-64.722863",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/439.json",
+    "country_id": 2
+  },
+  {
+    "id": 440,
+    "url_name": "san-agustin",
+    "name": "San Agustin (Argentina)",
+    "latitude": "-31.975637",
+    "longitude": "-64.374161",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/440.json",
+    "country_id": 2
+  },
+  {
+    "id": 9303,
+    "url_name": "san-antonio",
+    "name": "San Antonio",
+    "latitude": "-33.583647",
+    "longitude": "-71.613065",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9303.json",
+    "country_id": 1
+  },
+  {
+    "id": 443,
+    "url_name": "san-antonio-oeste",
+    "name": "San Antonio Oeste (Argentina)",
+    "latitude": "-40.730179",
+    "longitude": "-64.938979",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/443.json",
+    "country_id": 2
+  },
+  {
+    "id": 9304,
+    "url_name": "san-bernardo",
+    "name": "San Bernardo",
+    "latitude": "-33.583333",
+    "longitude": "-70.7",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9304.json",
+    "country_id": 1
+  },
+  {
+    "id": 9305,
+    "url_name": "san-carlos",
+    "name": "San Carlos",
+    "latitude": "-36.42615",
+    "longitude": "-71.970834",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9305.json",
+    "country_id": 1
+  },
+  {
+    "id": 10307,
+    "url_name": "san-carlos-de-puren",
+    "name": "San Carlos de Purén",
+    "latitude": "-37.592619",
+    "longitude": "-72.295884",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10307.json",
+    "country_id": 1
+  },
+  {
+    "id": 9306,
+    "url_name": "san-clemente",
+    "name": "San Clemente",
+    "latitude": "-35.536468",
+    "longitude": "-71.489371",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9306.json",
+    "country_id": 1
+  },
+  {
+    "id": 9308,
+    "url_name": "san-fabian-de-alico",
+    "name": "San Fabian De Alico",
+    "latitude": "-36.55",
+    "longitude": "-71.55",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9308.json",
+    "country_id": 1
+  },
+  {
+    "id": 9309,
+    "url_name": "san-felipe",
+    "name": "San Felipe",
+    "latitude": "-32.75",
+    "longitude": "-70.720812",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9309.json",
+    "country_id": 1
+  },
+  {
+    "id": 9310,
+    "url_name": "san-fernando",
+    "name": "San Fernando",
+    "latitude": "-34.58586",
+    "longitude": "-70.99078",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9310.json",
+    "country_id": 1
+  },
+  {
+    "id": 9311,
+    "url_name": "san-francisco-de-mostazal",
+    "name": "San Francisco De Mostazal",
+    "latitude": "-33.979166",
+    "longitude": "-70.711975",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9311.json",
+    "country_id": 1
+  },
+  {
+    "id": 448,
+    "url_name": "san-german",
+    "name": "San German (Argentina)",
+    "latitude": "-38.30109",
+    "longitude": "-62.979118",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/448.json",
+    "country_id": 2
+  },
+  {
+    "id": 9313,
+    "url_name": "san-ignacio",
+    "name": "San Ignacio",
+    "latitude": "-36.533333",
+    "longitude": "-72.433333",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9313.json",
+    "country_id": 1
+  },
+  {
+    "id": 449,
+    "url_name": "san-ignacio--arg",
+    "name": "San Ignacio (ARG) (Argentina)",
+    "latitude": "-27.571536",
+    "longitude": "-56.724359",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/449.json",
+    "country_id": 2
+  },
+  {
+    "id": 9314,
+    "url_name": "san-javier",
+    "name": "San Javier",
+    "latitude": "-35.593096",
+    "longitude": "-71.732502",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9314.json",
+    "country_id": 1
+  },
+  {
+    "id": 9317,
+    "url_name": "san-jose-de-la-mariquina",
+    "name": "San José De La Mariquina",
+    "latitude": "-39.516667",
+    "longitude": "-72.966667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9317.json",
+    "country_id": 1
+  },
+  {
+    "id": 9,
+    "url_name": "san-juan",
+    "name": "San Juan (Argentina)",
+    "latitude": "-31.535107",
+    "longitude": "-68.538594",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9.json",
+    "country_id": 2
+  },
+  {
+    "id": 18,
+    "url_name": "san-luis",
+    "name": "San Luis (Argentina)",
+    "latitude": "-33.301727",
+    "longitude": "-66.337752",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/18.json",
+    "country_id": 2
+  },
+  {
+    "id": 10260,
+    "url_name": "san-martin-de-los-andes",
+    "name": "San Martín De Los Andes (Argentina)",
+    "latitude": "-40.15721",
+    "longitude": "-71.352444",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10260.json",
+    "country_id": 2
+  },
+  {
+    "id": 454,
+    "url_name": "san-martin--mza",
+    "name": "San Martin (MZA) (Argentina)",
+    "latitude": "-33.08065",
+    "longitude": "-68.47057",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/454.json",
+    "country_id": 2
+  },
+  {
+    "id": 9321,
+    "url_name": "san-nicolas",
+    "name": "San Nicolas",
+    "latitude": "-36.5",
+    "longitude": "-72.2167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9321.json",
+    "country_id": 1
+  },
+  {
+    "id": 9323,
+    "url_name": "san-pedro-de-atacama",
+    "name": "San Pedro De Atacama",
+    "latitude": "-22.908707",
+    "longitude": "-68.199716",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9323.json",
+    "country_id": 1
+  },
+  {
+    "id": 10285,
+    "url_name": "san-pedro-de-la-paz",
+    "name": "San Pedro de la Paz",
+    "latitude": "-36.830535",
+    "longitude": "-73.116737",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10285.json",
+    "country_id": 1
+  },
+  {
+    "id": 9324,
+    "url_name": "san-rafael",
+    "name": "San Rafael",
+    "latitude": "-34.612129",
+    "longitude": "-68.338188",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9324.json",
+    "country_id": 1
+  },
+  {
+    "id": 1,
+    "url_name": "san-salvador-de-jujuy",
+    "name": "San Salvador de Jujuy (Argentina)",
+    "latitude": "-24.197778",
+    "longitude": "-65.300833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/1.json",
+    "country_id": 2
+  },
+  {
+    "id": 10319,
+    "url_name": "san-sebastian-cartagena",
+    "name": "San Sebastian (Cartagena)",
+    "latitude": "-33.5333",
+    "longitude": "-71.6",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10319.json",
+    "country_id": 1
+  },
+  {
+    "id": 9328,
+    "url_name": "santa-barbara",
+    "name": "Santa Bárbara",
+    "latitude": "-37.6667",
+    "longitude": "-72.0167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9328.json",
+    "country_id": 1
+  },
+  {
+    "id": 460,
+    "url_name": "santa-catalina--arg",
+    "name": "Santa Catalina (ARG) (Argentina)",
+    "latitude": "-21.944852",
+    "longitude": "-66.052306",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/460.json",
+    "country_id": 2
+  },
+  {
+    "id": 10296,
+    "url_name": "santa-clara",
+    "name": "Santa Clara",
+    "latitude": "-36.827865",
+    "longitude": "-72.352341",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10296.json",
+    "country_id": 1
+  },
+  {
+    "id": 9329,
+    "url_name": "santa-cruz",
+    "name": "Santa Cruz",
+    "latitude": "-34.632421",
+    "longitude": "-71.359212",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9329.json",
+    "country_id": 1
+  },
+  {
+    "id": 9330,
+    "url_name": "santa-juana",
+    "name": "Santa Juana",
+    "latitude": "-37.174969",
+    "longitude": "-72.945703",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9330.json",
+    "country_id": 1
+  },
+  {
+    "id": 462,
+    "url_name": "santa-rosa",
+    "name": "Santa Rosa (Argentina)",
+    "latitude": "-36.620922",
+    "longitude": "-64.291237",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/462.json",
+    "country_id": 2
+  },
+  {
+    "id": 436,
+    "url_name": "santa-rosa-de-conlara",
+    "name": "Santa Rosa de Conlara (Argentina)",
+    "latitude": "-32.605556",
+    "longitude": "-66.125",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/436.json",
+    "country_id": 2
+  },
+  {
+    "id": 9333,
+    "url_name": "santiago",
+    "name": "Santiago",
+    "latitude": "-33.46912",
+    "longitude": "-70.641997",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9333.json",
+    "country_id": 1
+  },
+  {
+    "id": 463,
+    "url_name": "santiago-del-estero",
+    "name": "Santiago del Estero (Argentina)",
+    "latitude": "-27.783357",
+    "longitude": "-64.264167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/463.json",
+    "country_id": 2
+  },
+  {
+    "id": 9327,
+    "url_name": "san-vicente-de-taguatagua",
+    "name": "San Vicente De Taguatagua",
+    "latitude": "-34.43797",
+    "longitude": "-71.087919",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9327.json",
+    "country_id": 1
+  },
+  {
+    "id": 9337,
+    "url_name": "sierra-gorda",
+    "name": "Sierra Gorda",
+    "latitude": "-22.886013",
+    "longitude": "-69.3172",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9337.json",
+    "country_id": 1
+  },
+  {
+    "id": 471,
+    "url_name": "sierra-grande",
+    "name": "Sierra Grande (Argentina)",
+    "latitude": "-41.606484",
+    "longitude": "-65.355003",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/471.json",
+    "country_id": 2
+  },
+  {
+    "id": 472,
+    "url_name": "sj-dormida",
+    "name": "SJ. Dormida (Argentina)",
+    "latitude": "-30.3565",
+    "longitude": "-63.950459",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/472.json",
+    "country_id": 2
+  },
+  {
+    "id": 474,
+    "url_name": "suco",
+    "name": "Suco (Argentina)",
+    "latitude": "-33.440273",
+    "longitude": "-64.830749",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/474.json",
+    "country_id": 2
+  },
+  {
+    "id": 475,
+    "url_name": "suncho-corral",
+    "name": "Suncho Corral (Argentina)",
+    "latitude": "-27.933334",
+    "longitude": "-63.430054",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/475.json",
+    "country_id": 2
+  },
+  {
+    "id": 9340,
+    "url_name": "talca",
+    "name": "Talca",
+    "latitude": "-35.423244",
+    "longitude": "-71.64848",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9340.json",
+    "country_id": 1
+  },
+  {
+    "id": 9341,
+    "url_name": "talcahuano",
+    "name": "Talcahuano",
+    "latitude": "-36.723928",
+    "longitude": "-73.113099",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9341.json",
+    "country_id": 1
+  },
+  {
+    "id": 9342,
+    "url_name": "taltal",
+    "name": "Taltal",
+    "latitude": "-25.406494",
+    "longitude": "-70.480303",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9342.json",
+    "country_id": 1
+  },
+  {
+    "id": 9343,
+    "url_name": "temuco",
+    "name": "Temuco",
+    "latitude": "-38.73383",
+    "longitude": "-72.584496",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9343.json",
+    "country_id": 1
+  },
+  {
+    "id": 9345,
+    "url_name": "teodoro-schmidt",
+    "name": "Teodoro Schmidt",
+    "latitude": "-38.999184",
+    "longitude": "-73.094297",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9345.json",
+    "country_id": 1
+  },
+  {
+    "id": 484,
+    "url_name": "termas-de-rio-hondo",
+    "name": "Termas de Rio Hondo (Argentina)",
+    "latitude": "-27.498557",
+    "longitude": "-64.860536",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/484.json",
+    "country_id": 2
+  },
+  {
+    "id": 9347,
+    "url_name": "tierras-blancas",
+    "name": "Tierras Blancas",
+    "latitude": "-32.613542",
+    "longitude": "-71.294365",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9347.json",
+    "country_id": 1
+  },
+  {
+    "id": 9348,
+    "url_name": "tijeral",
+    "name": "Tijeral",
+    "latitude": "-37.7333",
+    "longitude": "-72.6167",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9348.json",
+    "country_id": 1
+  },
+  {
+    "id": 487,
+    "url_name": "tilisarao",
+    "name": "Tilisarao (Argentina)",
+    "latitude": "-32.731728",
+    "longitude": "-65.287796",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/487.json",
+    "country_id": 2
+  },
+  {
+    "id": 9350,
+    "url_name": "tirua",
+    "name": "Tirúa",
+    "latitude": "-38.341915",
+    "longitude": "-73.495516",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9350.json",
+    "country_id": 1
+  },
+  {
+    "id": 10276,
+    "url_name": "toconao",
+    "name": "Toconao",
+    "latitude": "-23.187296",
+    "longitude": "-68.004711",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10276.json",
+    "country_id": 1
+  },
+  {
+    "id": 9351,
+    "url_name": "tocopilla",
+    "name": "Tocopilla",
+    "latitude": "-22.085798",
+    "longitude": "-70.193006",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9351.json",
+    "country_id": 1
+  },
+  {
+    "id": 9352,
+    "url_name": "tome",
+    "name": "Tomé",
+    "latitude": "-36.613156",
+    "longitude": "-72.958859",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9352.json",
+    "country_id": 1
+  },
+  {
+    "id": 9353,
+    "url_name": "tongoy",
+    "name": "Tongoy",
+    "latitude": "-30.252101",
+    "longitude": "-71.499794",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9353.json",
+    "country_id": 1
+  },
+  {
+    "id": 490,
+    "url_name": "toro-negro",
+    "name": "Toro Negro (Argentina)",
+    "latitude": "-32.736572",
+    "longitude": "-66.331039",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/490.json",
+    "country_id": 2
+  },
+  {
+    "id": 10293,
+    "url_name": "torres-del-paine",
+    "name": "Torres del Paine",
+    "latitude": "-51.259167",
+    "longitude": "-72.345",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10293.json",
+    "country_id": 1
+  },
+  {
+    "id": 9354,
+    "url_name": "traiguen",
+    "name": "Traiguen",
+    "latitude": "-38.25",
+    "longitude": "-72.6833",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9354.json",
+    "country_id": 1
+  },
+  {
+    "id": 9355,
+    "url_name": "trancura",
+    "name": "Trancura",
+    "latitude": "-39.464542",
+    "longitude": "-71.546852",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9355.json",
+    "country_id": 1
+  },
+  {
+    "id": 491,
+    "url_name": "trelew",
+    "name": "Trelew (Argentina)",
+    "latitude": "-43.249302",
+    "longitude": "-65.307635",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/491.json",
+    "country_id": 2
+  },
+  {
+    "id": 494,
+    "url_name": "tres-cerros",
+    "name": "Tres Cerros (Argentina)",
+    "latitude": "-48.144413",
+    "longitude": "-67.654556",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/494.json",
+    "country_id": 2
+  },
+  {
+    "id": 9356,
+    "url_name": "tres-pinos",
+    "name": "Tres Pinos",
+    "latitude": "-37.623945",
+    "longitude": "-73.411605",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9356.json",
+    "country_id": 1
+  },
+  {
+    "id": 10298,
+    "url_name": "trupan",
+    "name": "Trupan",
+    "latitude": "-37.274774",
+    "longitude": "-71.858238",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10298.json",
+    "country_id": 1
+  },
+  {
+    "id": 9358,
+    "url_name": "tucapel",
+    "name": "Tucapel",
+    "latitude": "-37.292305",
+    "longitude": "-71.951219",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9358.json",
+    "country_id": 1
+  },
+  {
+    "id": 10,
+    "url_name": "tucuman",
+    "name": "Tucumán (Argentina)",
+    "latitude": "-26.808285",
+    "longitude": "-65.21759",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10.json",
+    "country_id": 2
+  },
+  {
+    "id": 502,
+    "url_name": "ushuaia",
+    "name": "Ushuaia (Argentina)",
+    "latitude": "-54.801912",
+    "longitude": "-68.302951",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/502.json",
+    "country_id": 2
+  },
+  {
+    "id": 10275,
+    "url_name": "uyuni",
+    "name": "Uyuni (Bolivia)",
+    "latitude": "-20.460353",
+    "longitude": "-66.826065",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10275.json",
+    "country_id": 7
+  },
+  {
+    "id": 9360,
+    "url_name": "valdivia",
+    "name": "Valdivia",
+    "latitude": "-39.819586",
+    "longitude": "-73.24521",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9360.json",
+    "country_id": 1
+  },
+  {
+    "id": 507,
+    "url_name": "vallecitos",
+    "name": "Vallecitos (Argentina)",
+    "latitude": "-32.844829",
+    "longitude": "-68.86632",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/507.json",
+    "country_id": 2
+  },
+  {
+    "id": 10300,
+    "url_name": "valle-las-trancas",
+    "name": "Valle Las Trancas",
+    "latitude": "-36.913014",
+    "longitude": "-71.483617",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10300.json",
+    "country_id": 1
+  },
+  {
+    "id": 9362,
+    "url_name": "vallenar",
+    "name": "Vallenar",
+    "latitude": "-28.575795",
+    "longitude": "-70.757101",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9362.json",
+    "country_id": 1
+  },
+  {
+    "id": 10322,
+    "url_name": "valle-nevado",
+    "name": "Valle Nevado",
+    "latitude": "-33.353613",
+    "longitude": "-70.250867",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10322.json",
+    "country_id": 1
+  },
+  {
+    "id": 9363,
+    "url_name": "valparaiso",
+    "name": "Valparaíso",
+    "latitude": "-33.047238",
+    "longitude": "-71.612688",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9363.json",
+    "country_id": 1
+  },
+  {
+    "id": 9364,
+    "url_name": "ventana",
+    "name": "Ventana",
+    "latitude": "-33.072651",
+    "longitude": "-71.413069",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9364.json",
+    "country_id": 1
+  },
+  {
+    "id": 9365,
+    "url_name": "victoria",
+    "name": "Victoria",
+    "latitude": "-38.231466",
+    "longitude": "-72.351019",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9365.json",
+    "country_id": 1
+  },
+  {
+    "id": 9366,
+    "url_name": "vicuna",
+    "name": "Vicuña",
+    "latitude": "-30.0319",
+    "longitude": "-70.7081",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9366.json",
+    "country_id": 1
+  },
+  {
+    "id": 505,
+    "url_name": "vicuna-mackenna",
+    "name": "Vicuña Mackenna (Argentina)",
+    "latitude": "-33.917961",
+    "longitude": "-64.389481",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/505.json",
+    "country_id": 2
+  },
+  {
+    "id": 516,
+    "url_name": "viedma",
+    "name": "Viedma (Argentina)",
+    "latitude": "-40.811909",
+    "longitude": "-62.996204",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/516.json",
+    "country_id": 2
+  },
+  {
+    "id": 9367,
+    "url_name": "vilcun",
+    "name": "Vilcun",
+    "latitude": "-38.667719",
+    "longitude": "-72.224441",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9367.json",
+    "country_id": 1
+  },
+  {
+    "id": 9369,
+    "url_name": "villa-alemana",
+    "name": "Villa Alemana",
+    "latitude": "-33.047638",
+    "longitude": "-71.37341",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9369.json",
+    "country_id": 1
+  },
+  {
+    "id": 523,
+    "url_name": "villa-iris",
+    "name": "Villa Iris (Argentina)",
+    "latitude": "-38.171146",
+    "longitude": "-63.235908",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/523.json",
+    "country_id": 2
+  },
+  {
+    "id": 524,
+    "url_name": "villa-la-angostura",
+    "name": "Villa la Angostura (Argentina)",
+    "latitude": "-40.76342",
+    "longitude": "-71.646141",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/524.json",
+    "country_id": 2
+  },
+  {
+    "id": 525,
+    "url_name": "villa-las-rosas",
+    "name": "Villa las Rosas (Argentina)",
+    "latitude": "-32.877206",
+    "longitude": "-68.797205",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/525.json",
+    "country_id": 2
+  },
+  {
+    "id": 506,
+    "url_name": "villa-maria-de-rio-seco",
+    "name": "Villa Maria de Rio Seco (Argentina)",
+    "latitude": "-29.924806",
+    "longitude": "-63.643972",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/506.json",
+    "country_id": 2
+  },
+  {
+    "id": 527,
+    "url_name": "villa-mercedes--arg",
+    "name": "Villa Mercedes (ARG) (Argentina)",
+    "latitude": "-33.675442",
+    "longitude": "-65.458069",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/527.json",
+    "country_id": 2
+  },
+  {
+    "id": 10270,
+    "url_name": "villa-ohiggins",
+    "name": "Villa OHiggins",
+    "latitude": "-48.482181",
+    "longitude": "-72.588296",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10270.json",
+    "country_id": 1
+  },
+  {
+    "id": 528,
+    "url_name": "villa-ojo-de-agua",
+    "name": "Villa Ojo de Agua (Argentina)",
+    "latitude": "-29.501919",
+    "longitude": "-63.694233",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/528.json",
+    "country_id": 2
+  },
+  {
+    "id": 529,
+    "url_name": "villa-regina",
+    "name": "Villa Regina (Argentina)",
+    "latitude": "-39.100342",
+    "longitude": "-67.087799",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/529.json",
+    "country_id": 2
+  },
+  {
+    "id": 9374,
+    "url_name": "villarrica",
+    "name": "Villarrica",
+    "latitude": "-39.282012",
+    "longitude": "-72.23078",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9374.json",
+    "country_id": 1
+  },
+  {
+    "id": 10312,
+    "url_name": "villa-tehuelches",
+    "name": "Villa Tehuelches",
+    "latitude": "-52.25",
+    "longitude": "-71.916667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10312.json",
+    "country_id": 1
+  },
+  {
+    "id": 531,
+    "url_name": "villa-totoral",
+    "name": "Villa Totoral (Argentina)",
+    "latitude": "-30.703884",
+    "longitude": "-64.065308",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/531.json",
+    "country_id": 2
+  },
+  {
+    "id": 9376,
+    "url_name": "vina-del-mar",
+    "name": "Viña Del Mar",
+    "latitude": "-33.024527",
+    "longitude": "-71.55234",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9376.json",
+    "country_id": 1
+  },
+  {
+    "id": 10326,
+    "url_name": "visit-the-andes",
+    "name": "Visit the Andes",
+    "latitude": "-33.299999",
+    "longitude": "-70.258755",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10326.json",
+    "country_id": 1
+  },
+  {
+    "id": 537,
+    "url_name": "vizcacheras",
+    "name": "Vizcacheras (Argentina)",
+    "latitude": "-32.885499",
+    "longitude": "-68.870049",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/537.json",
+    "country_id": 2
+  },
+  {
+    "id": 538,
+    "url_name": "wanda",
+    "name": "Wanda (Argentina)",
+    "latitude": "-25.971197",
+    "longitude": "-54.564152",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/538.json",
+    "country_id": 2
+  },
+  {
+    "id": 539,
+    "url_name": "winifreda",
+    "name": "Winifreda (Argentina)",
+    "latitude": "-36.227234",
+    "longitude": "-64.233864",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/539.json",
+    "country_id": 2
+  },
+  {
+    "id": 9379,
+    "url_name": "yumbel",
+    "name": "Yumbel",
+    "latitude": "-37.0833",
+    "longitude": "-72.5667",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9379.json",
+    "country_id": 1
+  },
+  {
+    "id": 9380,
+    "url_name": "yungay",
+    "name": "Yungay",
+    "latitude": "-37.122016",
+    "longitude": "-72.013156",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9380.json",
+    "country_id": 1
+  },
+  {
+    "id": 9381,
+    "url_name": "zapadores",
+    "name": "Zapadores",
+    "latitude": "-33.390938",
+    "longitude": "-70.642441",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9381.json",
+    "country_id": 1
+  },
+  {
+    "id": 10263,
+    "url_name": "zapala",
+    "name": "Zapala (Argentina)",
+    "latitude": "-38.902362",
+    "longitude": "-70.06534",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/10263.json",
+    "country_id": 2
+  },
+  {
+    "id": 9382,
+    "url_name": "zapallar",
+    "name": "Zapallar",
+    "latitude": "-32.553611",
+    "longitude": "-71.458889",
+    "url": "https://www.recorrido.cl/api/v2/es/cities/9382.json",
+    "country_id": 1
+  }
+]
